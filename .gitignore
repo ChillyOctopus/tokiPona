@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+# Notes for the coding assistant: kept local
+CLAUDE.md
+# Other people's sources and corpora: used locally, never published
+private/
+# The web build
+web/node_modules/
+web/dist/

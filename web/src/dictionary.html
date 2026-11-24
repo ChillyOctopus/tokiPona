@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self' data:; style-src 'self'; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'"
+    />
+    <title>toki pona dictionary</title>
+    <meta
+      name="description"
+      content="Every word the toki pona translator knows, with its meanings by part of speech, how common it is, and the English it's most often given."
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="fonts/newsreader.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="fonts/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="dictionary.js"></script>
+  </head>
+  <body>
+    <!-- web/build.py fills in the counts, the letters, and the entries from master_dictionary.yaml. -->
+    <header class="top">
+      <div class="wrap top-row">
+        <a class="home" href="https://jistevenson.com/">Jacob Stevenson</a>
+        <a class="small-link" href="./">The translator</a>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="intro">
+        <p class="eyebrow">Lab</p>
+        <h1>toki pona dictionary</h1>
+        <p class="lead">
+          toki pona is a small language, first published in 2001, with only about 120 core words, so each one covers a lot of
+          ground: <em>pona</em> is good, simple, fixing, and thanks. Here are all <!-- count --> words the
+          <a href="./">translator</a> knows, with meanings drawn from <a href="https://linku.la/">lipu Linku</a>, the
+          community’s dictionary, and <a href="https://wasona.com/">wasona</a>, a free course.
+        </p>
+      </section>
+
+      <section class="random card" id="random" aria-label="Random word" hidden>
+        <p class="eyebrow">Random everyday word</p>
+        <button type="button" class="flip" id="flip" aria-describedby="flip-hint">
+          <span class="flip-side" id="flip-side"></span>
+          <span class="flip-text" id="flip-text"></span>
+        </button>
+        <p class="small muted" id="flip-hint"></p>
+        <div class="random-row">
+          <button type="button" class="btn" id="another">Another word</button>
+          <a class="random-link" id="random-link" href="#"></a>
+        </div>
+      </section>
+
+      <section class="guide">
+        <h2>How to read an entry</h2>
+        <p>
+          Each word has a short meaning first, then every meaning it has, grouped by the part of speech it plays. Tap a
+          part of speech, like <span class="pos-name">noun</span>, to see what that means. Next to the word, a colored
+          label says how many speakers use it:
+        </p>
+        <ol class="usage-scale"><!-- usage --></ol>
+        <p class="small muted">How common a word is comes from lipu Linku’s surveys of toki pona speakers.</p>
+      </section>
+
+      <nav class="letters" id="top-letters" aria-label="Jump to a letter">
+        <p class="letters-label">Jump to</p>
+        <ul><!-- letters --></ul>
+      </nav>
+
+      <div class="dictionary"><!-- entries --></div>
+    </main>
+
+    <footer class="foot">
+      <div class="wrap">
+        <p>
+          Made by <a href="https://jistevenson.com/">Jacob Stevenson</a>, drawing on <a href="https://linku.la/">lipu
+          Linku</a> and <a href="https://wasona.com/">wasona</a>, under CC BY-SA 4.0.
+        </p>
+      </div>
+    </footer>
+
+    <button type="button" class="back-to-top" aria-label="Back to top" id="back-to-top">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"></path></svg>
+    </button>
+  </body>
+</html>

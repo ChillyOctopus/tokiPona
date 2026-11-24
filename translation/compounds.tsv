@@ -1,0 +1,40 @@
+# Multi-word Toki Pona with a fixed English meaning: one per line,
+# tab-separated: toki_pona, english, role, source.
+# Roles: noun and verb replace the words where they head a phrase; context is
+# a whole phrase before la; utterance is a whole sentence.
+# Sources: "wasona <lesson>" when wasona's word lists give the meaning;
+# "common" for compounds wasona's sentences use without listing them.
+telo nasa	alcohol	noun	wasona basics-2/13-elements
+kiwen kasi	wood	noun	wasona basics-2/13-elements
+ko lete	snow	noun	wasona basics-2/13-elements
+kon sewi	divine spirit	noun	wasona basics-2/13-elements
+tenpo kama	the future	noun	wasona basics-3/20-time
+tenpo pini	the past	noun	wasona basics-3/20-time
+jan lili	child	noun	common
+mama mije	father	noun	common
+mama meli	mother	noun	common
+mama mama	grandparent	noun	wasona more/28-02-uncommon-words
+ma tomo	city	noun	common
+tenpo suno	day	noun	common
+tenpo pimeja	night	noun	common
+tenpo mun	month	noun	common
+tenpo sike	year	noun	common
+kalama musi	music	noun	common
+linja lawa	hair	noun	common
+tomo tawa	car	noun	common
+ilo nanpa	computer	noun	common
+jan lawa	leader	noun	common
+jan pona	friend	noun	common
+toki pona	toki pona	noun	common
+kalama musi	make music	verb	common
+kama sona	learn	verb	wasona basics-1/09-activities
+ken	perhaps	context	wasona basics-3/20-time
+open	to begin with	context	wasona basics-3/20-time
+tenpo	sometimes	context	wasona basics-3/20-time
+tenpo pini	in the past	context	wasona basics-3/20-time
+tenpo kama	in the future	context	wasona basics-3/20-time
+tenpo suno kama	tomorrow	context	wasona basics-3/20-time
+tenpo ni	now	context	common
+tenpo pimeja	at night	context	common
+kama pona	welcome	utterance	wasona basics-2/18-feelings
+a a a	hahaha	utterance	wasona basics-2/18-feelings

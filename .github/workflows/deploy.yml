@@ -1,0 +1,52 @@
+# Tests the parser and translator, builds the web page, runs the build in Pyodide, then deploys web/dist to the
+# Cloudflare Pages project "toki" (toki.jistevenson.com) on every push to main. Needs two repository secrets:
+# CLOUDFLARE_API_TOKEN (a token with Account > Cloudflare Pages > Edit) and CLOUDFLARE_ACCOUNT_ID, the same pair
+# jistevenson.com's repo uses.
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      # Pyodide 0.29 runs Python 3.13, so the tests run on it too.
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+      # The corpus tests skip themselves: their corpora are other people's and stay out of the repo.
+      - run: .venv/bin/python -m pytest -q
+      - run: npm ci
+        working-directory: web
+      - run: .venv/bin/python web/build.py
+      - run: node test.mjs
+        working-directory: web
+      # The secrets reach only these two steps, never the installs or the build.
+      - name: Create the Pages project on the first run
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages project list | grep -qw toki || npx --yes wrangler@4 pages project create toki --production-branch=main
+      - name: Deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages deploy web/dist --project-name=toki --branch=main

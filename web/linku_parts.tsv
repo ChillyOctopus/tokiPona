@@ -1,0 +1,281 @@
+# The part of speech of each piece of lipu Linku's definitions that doesn't name one (Linku mixes them: kama's
+# "arrive, approach, summon; future; event" is a verb, a modifier, then a noun). Tagged by hand; web/api.py's entry()
+# reads it, and web/build.py fails if a piece is missing or a row matches nothing. The pieces are lipu Linku's words,
+# under CC BY-SA 4.0. Tags: n noun, m modifier, v verb, pronoun, # number, i interjection, other.
+# word	tag	piece
+akesi	n	reptile, amphibian, scaly creature, crawling creature
+ala	m	not, nothing, no
+alasa	v	hunt, forage, search, attempt
+ale	m	all
+ale	m	abundant, countless, bountiful, every, plentiful
+ale	n	abundance, everything, life, universe
+ale	#	100
+ali	m	all
+ali	m	abundant, countless, bountiful, every, plentiful
+ali	n	abundance, everything, life, universe
+ali	#	100
+anpa	n	bottom, underside
+anpa	m	below, beneath
+anpa	m	defeated, humble, lowly
+ante	m	different, altered
+ante	v	modify, change
+ante	m	other
+ante	n	difference
+apeja	n	guilt, shame, shun, stigma, disgrace
+apeja	v	to accuse, to single out, to expose, to dishonor, to embarrass
+awen	v	stay, remain, wait, pause
+awen	v	protect, keep safe
+awen	v	continue
+epiku	m	epic, cool, awesome, amazing
+esun	v	trade, barter, exchange, swap, buy, sell
+esun	n	market, shop, fair, bazaar, place of business
+ijo	n	thing, object, entity, being, matter, phenomenon
+ike	m	negative quality, e.g. bad, unpleasant, harmful, unneeded
+ilo	n	tool, implement, machine, device
+insa	n	inside, center, between, middle, midpoint, internal
+isipin	v	to think, brainstorm, rationalize, conclude, ponder
+jaki	m	disgusting, unclean, unsanitary, toxic, repulsive, rotten
+jami	m	yummy
+jami	m	eliciting or stimulating a positive sensory experience
+jan	n	human being, person, somebody
+jasima	v	reflect, echo
+jasima	v	mirror, duplicate
+jelo	m	yellow, amber, golden, lime yellow, yellowish orange
+jo	v	hold, carry, possess, contain, own
+jonke	n	hjönk, goose sound, goose
+kala	n	fish, marine animal, sea creature, swimming creature
+kalama	v	to produce sound
+kalama	n	sound, e.g. sing, thunder, drum, clap, laugh, beep
+kama	v	arrive, approach, summon
+kama	m	future
+kama	n	event
+kamalawala	n	anarchy, uprising, revolt, rebellion
+kapesi	m	brown, gray, beige
+kasi	n	plant, vegetation
+kasi	n	herb, leaf
+ken	a	can, may, ability, permission
+ken	n	possibility, maybe
+ken	v	allow, enable
+kijetesantakalu	n	raccoon, kinkajou
+kijetesantakalu	n	any procyonid
+kijetesantakalu	n	any musteloid
+kiki	m	spiky, sharp
+kiki	n	angle, point
+kiki	m	triangular
+kili	n	fruit, vegetable, mushroom
+kipisi	v	split, cut, slice
+kipisi	n	piece, part
+kipisi	m	sharp, pointy
+kiwen	n	hard object e.g. metal, stone, wood
+ko	n	semi-solid, e.g. paste, powder, goo, sand, soil, clay
+ko	m	squishy, moldable
+ko	m	sticky
+kokosila	v	to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate
+kon	n	air, breath, wind
+kon	n	essence, spirit, soul, ghost
+kon	n	unseen agent
+konwe	n	animacy, life, autonomy
+konwe	n	autonomous being, living thing, organism
+konwe	m	alive, animate, dynamic
+konwe	v	to animate, to bring to life
+ku	m	interacting with the book Toki Pona Dictionary (2021) by Sonja Lang
+kule	n	color, pigment
+kule	n	category, genre, flavor
+kule	m	colorful, diverse
+kulijo	m	cool, fine, okay
+kulupu	n	group, community, society, company, nation, collection, team, crowd
+kute	n	ear, hearing organ
+kute	v	hear, listen, pay attention to, obey
+lanpan	v	take, seize, steal
+lape	v	sleep, rest, break from an activity or work
+laso	m	turquoise, blue, green, cyan, indigo, lime green
+lawa	n	head, mind, brain
+lawa	v	control, lead, guide
+lawa	n	government, leader
+lawa	n	rule, law
+leko	n	square, cube, block, blocky object e.g. bricks, stairs
+len	n	cloth, clothing, fabric, textile
+len	m	covered, hidden, secret, private
+lete	m	cold, cool, frozen
+lete	v	freeze, chill
+lete	m	raw, uncooked
+lili	m	small, short, young
+lili	m	few
+lili	n	piece, part
+linja	n	long, flexible thing, e.g. rope, yarn, hair, fur, line, strand
+linluwi	n	bonded things which are stronger through their bonds e.g. network, internet, connection
+linluwi	v	weave, braid, interlace
+lipu	n	flat and bendable object, e.g. paper, card, leaf
+lipu	n	written text or document, e.g. book, website, clay tablet
+loje	m	red, magenta, scarlet, pink, rust-colored, reddish orange
+lon	m	present, existing, real, true
+luka	n	hand, arm, tactile limb, grasping limb
+luka	v	to grasp, interact with, feel using touch
+lukin	v	see, look, view, examine, read, watch
+lukin	m	visual
+lukin	n	eye, seeing organ
+lupa	n	hole, pit, cave, doorway, window, portal
+ma	n	earth, land, soil
+ma	n	country, territory, world
+ma	n	outdoors
+majuna	m	old, aged, ancient
+mama	n	parent, ancestor
+mama	n	creator, originator
+mama	n	caretaker, sustainer, guardian
+mani	n	money, currency
+mani	n	thing of value e.g. gold, investment, livestock
+meli	n	woman, female, wife, girlfriend
+melome	m	lesbian, sapphic, WLW
+meso	m	midpoint, medium, mediocre
+meso	m	neither one not the other, neither fully is nor isn't
+mije	n	man, male, husband, boyfriend
+mijomi	m	gay, achillean, MLM
+misa	n	Glires or Eulipotyphla
+misa	n	rat, mouse, squirrel, rabbit, rodent
+misa	n	{~ suli} capybara
+misikeke	n	medical item or practice e.g. prescriptions, meditation, exercise, bandages, therapy
+moku	v	eat, drink, consume, swallow, ingest
+moku	n	food, edible thing
+moli	n	death, dead, die, dying
+moli	v	kill, murder
+monsi	n	back, behind, rear
+monsuta	n	fear, nervousness, dread
+monsuta	m	scary, frightening
+monsuta	n	scary thing e.g. predator, threat, danger
+mu	i	(animal noise or communication, onomatopoeia)
+mulapisu	n	pizza
+mun	n	moon, night sky object, star, celestial body
+musi	n	fun, game, entertainment, art, play, amusing, interesting, comical, silly
+mute	m	many, several, very
+mute	n	quantity
+namako	n	spice, ornament, adornment
+namako	m	extra, additional
+nanpa	n	number
+nasa	m	strange, unusual, silly, abnormal, unexpected
+nasa	m	drunk, intoxicated
+nasin	n	method, doctrine, tradition
+nasin	n	path, road, way
+nena	n	protuberances e.g. bump, button, hill, nose
+ni	pronoun	this, that, these, those
+nimi	n	word, name
+nimisin	n	any non-pu word
+nimisin	n	any new word
+nimisin	n	any joke word
+nja	i	meow, cat sound
+noka	n	foot, leg, organ of locomotion, roots
+ojuta	i	adaptation of the English meme "ligma", (literally) "o uta" (lick)
+oke	i	(acknowledgement or acceptance)
+oko	v	see, look, view, examine, read, watch
+oko	m	visual
+oko	n	eye, seeing organ
+olin	v	to have a strong emotional bond with, e.g. affection, appreciation, compassion, respect
+olin	v	platonic, romantic, or familial relationships
+omekapo	i	goodbye, farewell, see you later, (literally) "o moku e kala pona" (eat a good fish)
+open	v	begin, start, open, turn on
+open	n	beginning
+owe	m	totalitarian, Orwellian
+owe	m	of or relating to Big Brother from the book Ninety Eighty-Four
+pakala	m	damaged, broken, botched, harmed, messed up
+pakala	n	mistake
+pake	v	stop, cease, halt
+pake	v	to block the way, to interrupt
+pake	v	to prevent
+pakola	other	[misspelling of pakala]
+pali	n	work, activity
+pali	v	create, build, design
+pali	v	put effort toward, take action on
+palisa	n	long and hard thing e.g. branch, pole, rod, stick, spine, mast
+pan	n	grains, starchy foods, baked goods e.g. rice, sorghum, bread, noodles, masa, porridge, injera
+pana	v	give, send, emit, provide, put, release
+penpo	m	(equivalent to "(pi) toki pona taso")
+pika	m	electric, electronic, conductive, mechanical, online
+pika	n	electricity, lightning, thunder, network
+pilin	n	experience e.g. emotion, feeling, touch
+pilin	n	heart (physical or emotional)
+pimeja	m	dark, unlit
+pimeja	m	dark color, e.g. black, purple, brown
+pini	v	finish, stop, prevent
+pini	v	close, disable, turn off
+pini	m	ended, past
+pini	n	edge, end, conclusion
+pipi	n	insect, bug, spider, tiny crawling creature
+poka	n	hip, side
+poka	m	next to, nearby, vicinity
+poki	n	container e.g. bag, bowl, box, cup, cupboard, drawer, folder
+pona	m	positive quality, e.g. good, pleasant, helpful, friendly, useful, peaceful
+powe	m	unreal, false, untrue
+powe	v	pretend
+powe	v	deceive, trick
+pu	m	interacting with the book Toki Pona: The Language of Good by Sonja Lang
+puwa	m	fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)
+sama	m	same, similar, alike
+seli	m	hot, warm
+seli	n	heat, fire, flame
+seli	v	burn
+selo	n	outer layer, e.g. skin, peel, shell, bark
+selo	n	outer shape, outer form, boundary
+seme	pronoun	what, which, who
+sewi	n	up, top, above, highest part
+sewi	m	divine, sacred, supernatural
+sewi	m	awesome, inspiring, excelling
+sijelo	n	body, shape, physical state, torso, substance, form
+sike	n	circle, sphere, spiral, round thing e.g. ball, wheel
+sike	n	repeating thing e.g. cycle, orbit, loop
+sin	m	new, fresh, update
+sin	v	repeat, do again
+sinpin	n	vertical surface e.g. wall, board
+sinpin	n	front of something e.g. face
+sitelen	n	image, picture, representation, symbol, mark, writing
+soko	n	mushroom, fungus, lichen
+sona	n	knowledge, information, data
+sona	v	know, be skilled in, be wise about
+soto	n	left, left side, port side
+soweli	n	fuzzy creature, land animal, beast
+su	m	interacting with a book from the illustrated story book series that began with The Wonderful Wizard of Oz, produced by Sonja Lang
+suli	m	big, heavy, large, long, tall, wide
+suli	m	important, relevant
+suno	n	light, shine, glow, radiance
+suno	n	sun, light source
+suno	n	brightness
+supa	n	flat horizontal surface, especially to put or rest things on e.g. bed, floor, desk, plate, table, platform, stage
+sutopatikuna	n	platypus
+suwi	m	sweet, fragrant
+suwi	m	cute, adorable
+taki	m	sticky, magnetic
+taki	v	bond, attract, attach, clip
+tan	n	cause, origin
+taso	m	only, exclusively
+tawa	n	motion, e.g. walking, shaking, flight, travel
+teje	n	right, right side, starboard
+telo	n	liquids e.g. water, gasoline, soda, lava, soup, oil, ink
+tenpo	n	time, event, situation, moment, period, duration
+toki	v	communicate, say, think
+toki	n	conversation, story
+toki	n	language
+tomo	n	indoor space or shelter e.g. room, building, home, tent, shack
+tonsi	m	nonbinary, gender nonconforming, genderqueer, transgender*
+tu	v	separate, divide, split
+unpa	v	sex, to have sex with
+unu	m	purple, violet
+usawi	n	magic, sorcery
+usawi	v	enchant
+usawi	m	magical, supernatural, occult, incomprehensible
+uta	n	mouth, lips, throat, consuming orifice
+utala	v	fight, compete, battle
+utala	n	competition, challenge
+utala	v	struggle, strive
+walo	m	light-colored, white, pale, light gray, cream
+wan	m	singular
+wan	v	combine, join, mix, fuse
+waso	n	bird, flying creature, winged animal
+wasoweli	n	animal with qualities of both waso and soweli
+wawa	n	power, energy, strength
+wawa	m	confident, intense, forceful
+wawa	m	amazing, impressive
+weka	m	absent, away, distant
+weka	v	remove, get rid of
+wekama	v	leave and come back, be temporarily absent with the expectation of returning
+wile	v	want, desire, wish, require
+wuwojiti	v	to use one or more of the "banned" syllables wu, wo, ji, or ti
+wuwojiti	v	to break toki pona phonotactics
+yupekosi	v	to behave like George Lucas and revise your old creative works and actually make them worse

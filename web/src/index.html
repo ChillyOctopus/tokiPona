@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; worker-src 'self'; connect-src 'self'; img-src 'self' data:; style-src 'self'; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'"
+    />
+    <title>toki pona translator</title>
+    <meta
+      name="description"
+      content="Translate toki pona into English and check its grammar by the rules of the wasona course, all in your browser."
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="fonts/newsreader.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="fonts/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <header class="top">
+      <div class="wrap top-row">
+        <a class="home" href="https://jistevenson.com/">Jacob Stevenson</a>
+        <a class="small-link" href="https://jistevenson.com/lab">The lab</a>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="intro">
+        <p class="eyebrow">Lab</p>
+        <h1>toki pona translator</h1>
+        <p class="lead">
+          Type toki pona to get English and a grammar check by the rules of
+          <a href="https://wasona.com/">wasona</a>’s course. It runs in your browser, so nothing you type leaves your device.
+        </p>
+      </section>
+
+      <form id="form" class="tool">
+        <textarea
+          id="input"
+          aria-label="toki pona"
+          rows="4"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          placeholder="jan pona mi li toki e ni: sina pona."
+        ></textarea>
+        <div class="row">
+          <button type="submit" class="btn" id="go" disabled>Translate</button>
+          <p id="status" class="status" role="status">Loading the translator…</p>
+          <a class="dict-link" href="dictionary">The dictionary</a>
+        </div>
+      </form>
+
+      <section id="results" class="results" aria-live="polite"></section>
+
+      <section class="about">
+        <h2>How it works</h2>
+        <ol class="steps">
+          <li>
+            <strong>Words.</strong> The text is split into sentences, and each word is looked up in a
+            <a href="dictionary">181-word dictionary</a>. Type one word on its own to see all its meanings.
+          </li>
+          <li>
+            <strong>Grammar.</strong> A grammar finds every reading of the sentence and ranks them. When there’s more than
+            one, the arrows step through them.
+          </li>
+          <li><strong>Checks.</strong> Each reading is checked against wasona’s rules, and anything off is explained.</li>
+          <li><strong>English.</strong> The reading is put into English, construct by construct.</li>
+        </ol>
+        <p class="muted">
+          The English is literal. toki pona doesn’t mark tense or number, so verbs come out in the present and nouns in
+          the singular unless the sentence says otherwise, and a word’s most common meaning wins over the one its
+          context might want. English to toki pona is still to come.
+        </p>
+        <p class="muted">
+          The parser, checker, and translator are Python, run in your browser by Pyodide. The code is on
+          <a href="https://github.com/ChillyOctopus/tokiPona">GitHub</a>. Its sentences, rules, and
+          <a href="dictionary">dictionary</a> draw on <a href="https://wasona.com/">wasona</a> and
+          <a href="https://linku.la/">lipu Linku</a>, under CC BY-SA 4.0.
+        </p>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <div class="wrap">
+        <p>Made by <a href="https://jistevenson.com/">Jacob Stevenson</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>

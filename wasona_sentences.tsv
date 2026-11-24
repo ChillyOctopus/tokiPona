@@ -1,0 +1,1001 @@
+lesson	kind	toki_pona	english
+basics-1/02-writing	text	sina olin e utala.	You love conflict.
+basics-1/02-writing	text	taso sina sona ala: utala li ike e sina.	But you don’t understand that conflict makes you worse.
+basics-1/03-simple-sentences	vocab	waso	bird
+basics-1/03-simple-sentences	vocab	soweli	land animal
+basics-1/03-simple-sentences	vocab	pipi	bug
+basics-1/03-simple-sentences	vocab	kasi	plant
+basics-1/03-simple-sentences	vocab	moku	to eat
+basics-1/03-simple-sentences	vocab	lukin	to see
+basics-1/03-simple-sentences	vocab	sona	to know
+basics-1/03-simple-sentences	exercise	soweli li sona e pipi.	The animal knows the bug.
+basics-1/03-simple-sentences	exercise	pipi li moku e kasi.	The bug eats plants.
+basics-1/03-simple-sentences	exercise	waso li lukin e kasi.	The bird sees plants.
+basics-1/03-simple-sentences	exercise	waso li sona e soweli.	The bird knows the animal.
+basics-1/03-simple-sentences	word	soweli	land animal, like a cat, dog, cow, mouse, elephant
+basics-1/03-simple-sentences	word	waso	bird, like a pigeon, goose, owl
+basics-1/03-simple-sentences	word	pipi	insect, like a beetle, ant, butterfly, spider
+basics-1/03-simple-sentences	word	kasi	plant, like a clover, birch tree, cactus, moss
+basics-1/03-simple-sentences	word	moku	to consume
+basics-1/03-simple-sentences	word	lukin	to see
+basics-1/03-simple-sentences	word	sona	to know
+basics-1/03-simple-sentences	example	soweli li moku e kasi.	The animal eats plants.
+basics-1/03-simple-sentences	example	waso li moku e pipi.	The bird eats bugs.
+basics-1/03-simple-sentences	example	pipi li lukin e soweli.	The insect sees an animal.
+basics-1/03-simple-sentences	example	waso li sona e kasi.	The bird knows the tree.
+basics-1/04-adjectives	vocab	suli	large
+basics-1/04-adjectives	vocab	lili	small
+basics-1/04-adjectives	vocab	pona	good
+basics-1/04-adjectives	vocab	ike	bad
+basics-1/04-adjectives	vocab	wawa	strong
+basics-1/04-adjectives	vocab	suwi	cute
+basics-1/04-adjectives	exercise	soweli suwi	a sweet animal
+basics-1/04-adjectives	exercise	pipi ike	a bad insect
+basics-1/04-adjectives	exercise	waso wawa	a powerful bird
+basics-1/04-adjectives	exercise	waso li sona e soweli wawa.	The bird knows a strong animal.
+basics-1/04-adjectives	exercise	pipi lili li lukin e soweli suli.	A tiny insect looks at a big animal.
+basics-1/04-adjectives	word	suli	large, important
+basics-1/04-adjectives	word	lili	small, young
+basics-1/04-adjectives	word	pona	good, pleasant
+basics-1/04-adjectives	word	ike	bad, unpleasant
+basics-1/04-adjectives	word	wawa	powerful, amazing
+basics-1/04-adjectives	word	sona	knowledgeable, wise
+basics-1/04-adjectives	word	suwi	cute, sweet
+basics-1/04-adjectives	word	soweli suli	a large animal
+basics-1/04-adjectives	word	pipi lili	a small bug
+basics-1/04-adjectives	word	waso suwi	an adorable bird
+basics-1/04-adjectives	example	waso li lukin e soweli suwi.	The bird sees a cute animal.
+basics-1/04-adjectives	example	soweli wawa li moku e kasi suli.	The strong animal eats large plants.
+basics-1/04-adjectives	example	pipi ike li moku lili e soweli.	Mean bugs bite the animal a little.
+basics-1/04-adjectives	word	waso sona...	The wise bird...
+basics-1/04-adjectives	word	...li sona pona...	...knows well...
+basics-1/04-adjectives	word	...e pipi lili.	...little bugs.
+basics-1/04-adjectives	example	waso sona li sona pona e pipi lili.	The wise bird knows little bugs well.
+basics-1/05-parts-of-speech	exercise	pipi wawa	a strong bug
+basics-1/05-parts-of-speech	exercise	wawa pipi	the strength of the bug
+basics-1/05-parts-of-speech	exercise	lukin suli	a big eye
+basics-1/05-parts-of-speech	exercise	moku pona	good food
+basics-1/05-parts-of-speech	exercise	pona wawa	amazingly good
+basics-1/05-parts-of-speech	exercise	suli pona	the right size
+basics-1/05-parts-of-speech	exercise	lili ike	too small
+basics-1/05-parts-of-speech	exercise	moku li pona e lukin.	Food makes eyes better.
+basics-1/05-parts-of-speech	exercise	soweli li sona e suwi waso.	Animals know the cuteness of birds.
+basics-1/05-parts-of-speech	word	lukin	N: eye; V: to see
+basics-1/05-parts-of-speech	word	moku	N: food; V: to consume, to eat
+basics-1/05-parts-of-speech	word	sona	N: knowledge, wisdom; V: to know; Adj: knowledgeable, wise
+basics-1/05-parts-of-speech	word	suli	N: size; V: to make bigger, to emphasize; Adj: big, important
+basics-1/05-parts-of-speech	word	pona	N: goodness; V: to make better, to improve; Adj: good, pleasant
+basics-1/05-parts-of-speech	word	waso	N: bird; V: to make into a bird; Adj: of a bird, bird-like
+basics-1/05-parts-of-speech	example	lukin li pona e sona.	Eyes improve knowledge.
+basics-1/05-parts-of-speech	example	moku li suli e pipi.	Food makes the bugs grow bigger.
+basics-1/05-parts-of-speech	example	moku li wawa e soweli lili.	Food strengthens the small animal.
+basics-1/05-parts-of-speech	word	soweli suli	big animal
+basics-1/05-parts-of-speech	word	suli soweli	the size of an animal
+basics-1/05-parts-of-speech	example	soweli suli li sona e suli soweli.	The big animal knows the size of an animal.
+basics-1/05-parts-of-speech	word	soweli sona	wise animal
+basics-1/05-parts-of-speech	word	sona pona	good knowledge; to know well
+basics-1/05-parts-of-speech	word	pona waso	goodness of the bird
+basics-1/05-parts-of-speech	example	soweli sona li pona e waso.	The wise animal helps the bird.
+basics-1/05-parts-of-speech	example	soweli li sona pona e waso.	The animal knows the bird well.
+basics-1/05-parts-of-speech	example	soweli li sona e pona waso.	The animal knows how good the bird is.
+basics-1/06-pronouns	vocab	ni	this
+basics-1/06-pronouns	vocab	mi	me
+basics-1/06-pronouns	vocab	sina	you
+basics-1/06-pronouns	vocab	ona	they
+basics-1/06-pronouns	exercise	ni li kasi suwi.	This is a sweet plant.
+basics-1/06-pronouns	exercise	ni li lukin suli.	These are big eyes.
+basics-1/06-pronouns	exercise	lukin sina li suli.	Your eyes are big.
+basics-1/06-pronouns	exercise	waso ni li lili.	This bird is tiny.
+basics-1/06-pronouns	exercise	pipi ike li moku e kasi mi.	Mean bugs ate my plant.
+basics-1/06-pronouns	exercise	sina suwi.	You are cute.
+basics-1/06-pronouns	exercise	mi lukin e ona.	I see them.
+basics-1/06-pronouns	exercise	ona li moku pona.	They eat well.
+basics-1/06-pronouns	exercise	pipi wawa ni	this strong beetle
+basics-1/06-pronouns	also_accept	pipi ni wawa	this strong beetle
+basics-1/06-pronouns	exercise	mi sona pona e wawa sina.	I know your strengths well.
+basics-1/06-pronouns	exercise	sona waso li suli.	Knowing about birds is important.
+basics-1/06-pronouns	exercise	kasi ona li suli ike.	Their tree is too large.
+basics-1/06-pronouns	exercise	pona sina li wawa e mi.	Your help has strengthened me.
+basics-1/06-pronouns	exercise	waso lili suwi mi	my adorable little pigeon
+basics-1/06-pronouns	also_accept	waso lili mi suwi	my adorable little pigeon
+basics-1/06-pronouns	also_accept	waso suwi lili mi	my adorable little pigeon
+basics-1/06-pronouns	also_accept	waso suwi mi lili	my adorable little pigeon
+basics-1/06-pronouns	also_accept	waso mi suwi lili	my adorable little pigeon
+basics-1/06-pronouns	also_accept	waso mi lili suwi	my adorable little pigeon
+basics-1/06-pronouns	word	ni	this, that
+basics-1/06-pronouns	example	ni li soweli.	This is an animal.
+basics-1/06-pronouns	example	ni li kasi.	This is a plant.
+basics-1/06-pronouns	example	ni li moku suwi.	This is sweet food.
+basics-1/06-pronouns	example	ni li suli.	This is important.
+basics-1/06-pronouns	example	ni li pona wawa.	This is amazingly good.
+basics-1/06-pronouns	word	mi	I, we; my, our
+basics-1/06-pronouns	word	sina	you; your
+basics-1/06-pronouns	word	ona	she, he, it, they; her, his, its, their
+basics-1/06-pronouns	example	kasi ni li suli.	This plant is big.
+basics-1/06-pronouns	example	sona sina li wawa.	Your knowledge is amazing.
+basics-1/06-pronouns	example	pipi ni li pipi mi.	This bug is my bug.
+basics-1/06-pronouns	example	waso sina li lukin e mi.	Your bird sees me.
+basics-1/06-pronouns	example	waso li moku e pipi ni.	The bird eats this bug.
+basics-1/06-pronouns	example	soweli mi li moku e kasi ona.	My animal eats its plant.
+basics-1/06-pronouns	example	mi wawa.	I am strong.
+basics-1/06-pronouns	example	sina lukin e moku.	You see food.
+basics-1/06-pronouns	example	mi sona e kasi suli.	I know the big plant.
+basics-1/06-pronouns	example	sina sona e suli kasi.	You know the plant's size.
+basics-1/07-names	vocab	nimi	word
+basics-1/07-names	vocab	jan	person
+basics-1/07-names	vocab	sitelen	drawing
+basics-1/07-names	vocab	toki	talk
+basics-1/07-names	vocab	ma	land
+basics-1/07-names	vocab	tomo	building
+basics-1/07-names	exercise	mi sitelen e ma.	I draw the land.
+basics-1/07-names	exercise	sitelen sina li suli.	Your picture is large.
+basics-1/07-names	exercise	jan li toki e tomo.	People talk about buildings.
+basics-1/07-names	exercise	nimi sina li jan Maja.	Your name is Maya.
+basics-1/07-names	also_accept	sina jan Maja.	Your name is Maya.
+basics-1/07-names	exercise	jan Iman li toki Alapi.	Iman speaks Arabic.
+basics-1/07-names	exercise	ma tomo Towano li suli.	The city of Toronto is large.
+basics-1/07-names	also_accept	ma Towano li suli.	The city of Toronto is large.
+basics-1/07-names	exercise	mi lukin e sitelen Kililisa.	I see Cyrillic writing.
+basics-1/07-names	exercise	nimi sina li suwi.	You have a lovely name.
+basics-1/07-names	exercise	tomo soweli li suli pona.	The doghouse is sufficiently large.
+basics-1/07-names	exercise	sitelen ni li sitelen Lasina.	This writing system is the Latin alphabet.
+basics-1/07-names	also_accept	ni li sitelen Lasina.	This writing system is the Latin alphabet.
+basics-1/07-names	exercise	mi sitelen e toki sina.	I am writing what you are saying.
+basics-1/07-names	exercise	sina sitelen e jan toki.	You take a picture of people who are having a conversation.
+basics-1/07-names	exercise	jan Sunita li toki Kanse e ma Nijon.	Sunita talks in French about Japan.
+basics-1/07-names	word	nimi	name, word
+basics-1/07-names	word	jan	person
+basics-1/07-names	word	sitelen	image, writing; to draw, to write
+basics-1/07-names	word	toki	speech, language; to talk, to speak
+basics-1/07-names	word	ma	land, country
+basics-1/07-names	word	tomo	building, room, home
+basics-1/07-names	example	jan Nowa	person named Noah (from English 'Noah')
+basics-1/07-names	example	jan Ema	person named Emma (from English 'Emma')
+basics-1/07-names	example	toki Kanse	language named French (from French 'français')
+basics-1/07-names	example	ma Tosi	land named Germany (from German 'Deutsch')
+basics-1/07-names	example	ma tomo Loma	land of buildings named Rome (from Latin 'Rōma')
+basics-1/07-names	example	waso li lukin e ma.	The bird looks at the land.
+basics-1/07-names	example	jan li toki e tomo.	People speak about a house.
+basics-1/07-names	example	jan pona li toki pona.	Pleasant people speak well.
+basics-1/07-names	example	nimi ona li jan Kenta.	His name is Kenta.
+basics-1/07-names	example	jan Sunita li sitelen e pipi.	Sunita draws a bug.
+basics-1/07-names	example	jan Nina li toki Kanse.	Nina speaks French.
+basics-1/07-names	example	jan Ema li sona pona e ma Tosi.	Emma knows Germany well.
+basics-1/08-prepositions	vocab	weka	to remove
+basics-1/08-prepositions	vocab	pana	to give
+basics-1/08-prepositions	vocab	kama	to come
+basics-1/08-prepositions	vocab	awen	to stay
+basics-1/08-prepositions	vocab	tawa	towards
+basics-1/08-prepositions	vocab	lon	at
+basics-1/08-prepositions	vocab	tan	from
+basics-1/08-prepositions	exercise	lon ma Inli	in England
+basics-1/08-prepositions	exercise	tawa jan Ali	to Ali
+basics-1/08-prepositions	exercise	sina weka e pipi tan tomo.	You remove the bug from the house.
+basics-1/08-prepositions	exercise	kasi li pona tawa mi.	I like plants. (Plants are good to me.)
+basics-1/08-prepositions	exercise	mi pana e pipi tawa waso.	I gave the bird a caterpillar.
+basics-1/08-prepositions	exercise	jan li awen lon tomo.	People stay in the house.
+basics-1/08-prepositions	exercise	jan Nowa li tawa ma Kanse.	Noah goes to France.
+basics-1/08-prepositions	exercise	ma tomo Towano li lon ma Kanata.	Toronto is in Canada.
+basics-1/08-prepositions	also_accept	ma Towano li lon ma Kanata.	Toronto is in Canada.
+basics-1/08-prepositions	exercise	waso li lon tomo moku.	There is a bird in the restaurant.
+basics-1/08-prepositions	exercise	soweli mi li weka tan mi.	My cat ran away from me.
+basics-1/08-prepositions	exercise	mi awen tan sina.	I stay because of you.
+basics-1/08-prepositions	exercise	sona ma li suli tawa mi.	Geography is important to me.
+basics-1/08-prepositions	exercise	ma Sanpansiko li lon ma Mewika.	San Francisco is in the United States.
+basics-1/08-prepositions	exercise	waso li awen e tomo ona.	The bird protects its nest.
+basics-1/08-prepositions	word	weka	to remove, to go away; absent, away
+basics-1/08-prepositions	word	pana	to give, to put
+basics-1/08-prepositions	word	kama	to come, to arrive
+basics-1/08-prepositions	word	awen	to stay, to remain, to protect
+basics-1/08-prepositions	word	tawa	to, towards
+basics-1/08-prepositions	word	lon	at, on, in
+basics-1/08-prepositions	word	tan	from, because of
+basics-1/08-prepositions	word	tawa soweli	towards the animal
+basics-1/08-prepositions	word	lon ma	on land, in the country
+basics-1/08-prepositions	word	tan tomo	from the house
+basics-1/08-prepositions	example	mi pana e waso tawa kasi.	I put a bird onto a tree.
+basics-1/08-prepositions	example	waso li awen lon kasi.	The bird remains on a tree.
+basics-1/08-prepositions	example	sina weka e waso tan kasi.	You remove the bird from the tree.
+basics-1/08-prepositions	example	jan Ema li tawa ma Nijon.	Emma goes to Japan.
+basics-1/08-prepositions	example	jan Nina li lon ma Lusi.	Nina is in Russia.
+basics-1/08-prepositions	example	jan Mili li tan ma Kanse.	Millie is from France.
+basics-1/08-prepositions	example	mi tawa ma kasi.	I go to the plant land. (Could be a forest, a grassy field, somewhere lush.)
+basics-1/08-prepositions	example	sona li weka tan mi.	Knowledge went away from me. (I forgot.)
+basics-1/08-prepositions	example	soweli suwi li pona tawa mi.	Cute animals are good to me. (I like cute animals.)
+basics-1/08-prepositions	example	jan Nowa li toki tawa jan Ema.	Noah speaks to Emma.
+basics-1/08-prepositions	example	jan li toki Tosi lon ma Tosi.	People speak German in Germany.
+basics-1/09-activities	vocab	utala	fight
+basics-1/09-activities	vocab	lape	sleep
+basics-1/09-activities	vocab	musi	funny
+basics-1/09-activities	vocab	nasa	strange
+basics-1/09-activities	vocab	kalama	sound
+basics-1/09-activities	vocab	wile	want
+basics-1/09-activities	vocab	ken	can
+basics-1/09-activities	vocab	alasa	try
+basics-1/09-activities	exercise	waso suwi li lape.	A cute bird sleeps.
+basics-1/09-activities	exercise	nimi ona li suli.	Its name is long.
+basics-1/09-activities	exercise	wile musi	to want to have fun
+basics-1/09-activities	exercise	alasa kalama	to try to sing
+basics-1/09-activities	exercise	mi kama sitelen e kasi.	I start to draw the plant.
+basics-1/09-activities	exercise	soweli lili li ken utala musi.	The cub can fight playfully.
+basics-1/09-activities	exercise	mi alasa tawa ma Sonko.	I try to go to China.
+basics-1/09-activities	exercise	waso li awen wile lape.	The bird still wants to sleep.
+basics-1/09-activities	exercise	pipi li wile wawa.	The bug wants to be strong.
+basics-1/09-activities	exercise	utala li wile e wawa.	Fighting requires strength.
+basics-1/09-activities	exercise	mi kama kalama tan musi.	I begin to sing out of joy.
+basics-1/09-activities	exercise	jan musi li alasa lukin e jan weka.	The players try to find the absent person.
+basics-1/09-activities	also_accept	jan musi li alasa e jan weka.	The players try to find the absent person.
+basics-1/09-activities	word	utala	to fight, to attack
+basics-1/09-activities	word	lape	to sleep, to rest
+basics-1/09-activities	word	kalama	to produce a sound; sound
+basics-1/09-activities	word	musi	to have fun; funny, amusing, interesting
+basics-1/09-activities	word	nasa	strange, unusual, silly, drunken
+basics-1/09-activities	example	soweli li utala e jan.	The animal attacked someone.
+basics-1/09-activities	example	sina lape lon tomo.	You sleep at home.
+basics-1/09-activities	example	nimi ona li nasa tawa mi.	Her name is strange to me.
+basics-1/09-activities	example	jan lili li musi tan kalama.	The child is having fun because of noises.
+basics-1/09-activities	word	kama	to begin to ..., to become ...
+basics-1/09-activities	word	awen	to continue to ..., to still ...
+basics-1/09-activities	word	wile	to want to ...; to want, to require
+basics-1/09-activities	word	ken	to be able to ...; to allow, to be possible
+basics-1/09-activities	word	alasa	to try to ...; to seek, to hunt, to gather
+basics-1/09-activities	word	wile lape	to want to sleep
+basics-1/09-activities	word	awen pona	to continue to be good
+basics-1/09-activities	word	kama sona	to become knowledgeable, to learn
+basics-1/09-activities	word	alasa kama wawa	to try to become strong
+basics-1/09-activities	example	waso lili li wile lape.	The small bird wants to sleep.
+basics-1/09-activities	example	mi kama sona e toki pona.	I learn a nice language. I learn Toki Pona.
+basics-1/09-activities	example	sina alasa tawa ma Tosi.	You try to go to Germany.
+basics-1/09-activities	example	toki ona li awen nasa tawa mi.	His speech is still strange to me.
+basics-1/10-story	text	soweli li lon ma kasi.	There was a deer in the forest.
+basics-1/10-story	text	nimi ona li soweli Mumu.	Her name was Mumu.
+basics-1/10-story	text	soweli Mumu li lape pona.	Mumu was fast asleep.
+basics-1/10-story	text	kasi li awen e lape ona.	Trees protected her sleep.
+basics-1/10-story	text	kalama nasa suli li kama.	There came a strange loud noise.
+basics-1/10-story	text	lape li weka tan soweli.	The deer woke up.
+basics-1/10-story	text	soweli li wile sona e kalama.	She wanted to find out more about the noise.
+basics-1/10-story	text	waso lili suwi li kama.	There came a cute little sparrow.
+basics-1/10-story	text	nimi ona li waso Siju.	His name was Siju.
+basics-1/10-story	text	soweli li lukin e ona.	The deer looked at the sparrow.
+basics-1/10-story	text	soweli li kama sona e ni: kalama wawa li tan waso ni.	She learned this: the noise came from this bird.
+basics-1/10-story	text	waso li wile moku.	The sparrow was hungry.
+basics-1/10-story	text	wile ona li suli.	He was desperate.
+basics-1/10-story	text	ona li kalama suli tan ni.	And so he cried out.
+basics-1/10-story	text	ni li ike tawa soweli Mumu.	This saddened Mumu.
+basics-1/10-story	text	soweli li wile pona e waso.	The deer wanted to help the sparrow.
+basics-1/10-story	text	soweli li pana e pipi suli tawa ona.	She fed him a large caterpillar.
+basics-1/10-story	text	waso li moku e pipi.	The sparrow ate the bug.
+basics-1/10-story	text	ni li pona tawa ona.	This satisfied his hunger.
+basics-2/11-home	vocab	ilo	tool
+basics-2/11-home	vocab	lipu	document
+basics-2/11-home	vocab	poki	box
+basics-2/11-home	vocab	supa	shelf
+basics-2/11-home	vocab	lupa	hole
+basics-2/11-home	vocab	len	cover
+basics-2/11-home	vocab	open	open
+basics-2/11-home	vocab	pini	close
+basics-2/11-home	vocab	jo	hold
+basics-2/11-home	vocab	ijo	something
+basics-2/11-home	exercise	sina pini e lupa.	You close the door.
+basics-2/11-home	exercise	soweli li lon tomo mi.	There is a cat in my house.
+basics-2/11-home	exercise	tomo mi li jo e soweli.	My house contains a cat.
+basics-2/11-home	exercise	waso sina li wile e moku.	Your bird needs food.
+basics-2/11-home	exercise	jan Sunita li ken kalama pona.	Sunita can sing well.
+basics-2/11-home	exercise	mi wile toki e ilo len.	I want to speak about a sewing machine.
+basics-2/11-home	exercise	soweli li alasa e waso.	Cats hunt birds.
+basics-2/11-home	exercise	poki ni li wile e ilo open.	This chest requires a key.
+basics-2/11-home	exercise	ona li len e jan lili lape.	She covered the sleeping child (with a blanket).
+basics-2/11-home	also_accept	ona li len e jan lape lili.	She covered the sleeping child (with a blanket).
+basics-2/11-home	exercise	jan li pana e lipu pipi tawa supa.	Someone put the book about bugs on the desk.
+basics-2/11-home	exercise	lipu Wikipesija li pana e sona pona.	The website called Wikipedia shares useful knowledge.
+basics-2/11-home	word	ilo	tool, like a hammer, fork, phone, app
+basics-2/11-home	word	lipu	flat thing for 󱥡 sona, like paper, card, book, website
+basics-2/11-home	word	poki	container, like a box, drawer, bottle
+basics-2/11-home	word	supa	horizontal surface, like a shelf, desk, couch
+basics-2/11-home	word	lupa	an opening, like a door, window, hole
+basics-2/11-home	word	len	a cover, like clothes, shoes, blanket
+basics-2/11-home	word	open	to begin, to open, to turn on
+basics-2/11-home	word	pini	to end, to close, to turn off
+basics-2/11-home	word	jo	to hold, to contain, to include
+basics-2/11-home	example	mi open e lupa.	I open the door.
+basics-2/11-home	example	jan li pini e poki moku.	The person closes the fridge.
+basics-2/11-home	example	lipu li lon supa lape.	The book is on the bed.
+basics-2/11-home	example	poki mi li ken jo e len.	My drawer may contain clothes.
+basics-2/11-home	example	ilo mi li wile e wawa.	My phone requires electricity.
+basics-2/11-home	word	ijo	something, thing, stuff
+basics-2/11-home	example	poki li jo e ijo.	The box has stuff.
+basics-2/11-home	example	jan li sitelen e ijo suwi.	Someone is drawing something cute.
+basics-2/11-home	example	mi wile toki e ijo kasi.	I would like to talk about something related to plants.
+basics-2/12-requests	exercise	jan Ema o alasa lape!	Emma, try to sleep!
+basics-2/12-requests	exercise	waso o kalama tawa mi!	Hey bird, sing to me!
+basics-2/12-requests	exercise	jan Kenta o!	Hey, Kenta!
+basics-2/12-requests	exercise	o toki tawa jan Nina!	Talk to Nina!
+basics-2/12-requests	exercise	o sitelen e ijo nasa!	Draw something strange!
+basics-2/12-requests	exercise	jan Maja o pana e ilo moku tawa mi!	Maya, give me the spoon!
+basics-2/12-requests	also_accept	jan Maja o pana e ilo tawa mi!	Maya, give me the spoon!
+basics-2/12-requests	exercise	o kalama e ijo pona!	Sing something nice!
+basics-2/12-requests	also_accept	o kalama pona!	Sing something nice!
+basics-2/12-requests	also_accept	o kalama pona e ijo!	Sing something nice!
+basics-2/12-requests	exercise	o weka tan lupa ma!	Get out of the cave!
+basics-2/12-requests	exercise	lipu o toki e ma Sinkapo.	The article should talk about Singapore.
+basics-2/12-requests	exercise	jan Nowa o, soweli sina li wile musi!	Hey Noah, your dog wants to have fun!
+basics-2/12-requests	exercise	jan Iman o awen lon supa lape.	Hey Iman, please stay in bed.
+basics-2/12-requests	also_accept	jan Iman o awen lon supa.	Hey Iman, please stay in bed.
+basics-2/12-requests	word	o	starts a request, command, instruction, wish
+basics-2/12-requests	example	ilo li sitelen e pipi.	The phone is showing a bug.
+basics-2/12-requests	example	ilo o sitelen e waso!	Oh phone, please show a bird!
+basics-2/12-requests	example	jan o lukin e lipu pona!	People, please read the good paper!
+basics-2/12-requests	example	soweli mi o moku pona!	My cat, please eat well!
+basics-2/12-requests	example	jan lili sina o kama wawa!	May your child become strong!
+basics-2/12-requests	example	pona o tawa sina!	May goodness go to you! (Blessings be upon you!)
+basics-2/12-requests	example	jan Ema o pini e lupa tomo!	Emma, please close the door!
+basics-2/12-requests	example	jan Ema o!	Hey, Emma!
+basics-2/12-requests	example	o pini e lupa tomo!	Please close the door!
+basics-2/13-elements	vocab	kon	air
+basics-2/13-elements	vocab	telo	water
+basics-2/13-elements	vocab	ko	soft solid
+basics-2/13-elements	vocab	kiwen	hard solid
+basics-2/13-elements	vocab	seli	heat
+basics-2/13-elements	vocab	lete	cold
+basics-2/13-elements	vocab	sewi	divine
+basics-2/13-elements	exercise	lon sewi	in the sky
+basics-2/13-elements	exercise	ma lete	a cold land
+basics-2/13-elements	exercise	sona kiwen	geology
+basics-2/13-elements	exercise	sewi li pana e telo lete.	The sky gives off cold water.
+basics-2/13-elements	exercise	telo suwi li pona tawa ona.	She likes sweet water.
+basics-2/13-elements	exercise	ko li ken kama kiwen.	Clay may harden.
+basics-2/13-elements	exercise	o telo e len sina!	Please wash your clothes!
+basics-2/13-elements	exercise	o kama sona e kon nimi!	Learn the meaning of the word!
+basics-2/13-elements	exercise	jan Milana li kama sona e lipu sewi.	Milana studies the holy book.
+basics-2/13-elements	exercise	ma Sumi li ma lete.	Finland is a cold country.
+basics-2/13-elements	exercise	sewi o awen e sina!	May the divine protect you!
+basics-2/13-elements	exercise	telo li kama kiwen tan lete.	The water froze because of the cold.
+basics-2/13-elements	exercise	jan kalama li pana wawa e kon.	The singing person forcefully breathes out air.
+basics-2/13-elements	exercise	lipu ike ni o seli!	This vile manuscript shall burn!
+basics-2/13-elements	also_accept	lipu ni ike o seli!	This vile manuscript shall burn!
+basics-2/13-elements	word	kon	air, soul, essence, meaning
+basics-2/13-elements	word	telo	water, a thin liquid
+basics-2/13-elements	word	ko	a soft solid or thick liquid, like sand, clay, dough, glue
+basics-2/13-elements	word	kiwen	a hard solid, like stone, wood, metal
+basics-2/13-elements	word	seli	fire, hot, to burn
+basics-2/13-elements	word	lete	cold
+basics-2/13-elements	word	sewi	sky; high, divine
+basics-2/13-elements	word	kiwen kasi	the hard stuff of a plant, wood
+basics-2/13-elements	word	ko lete	cold fluff, snow
+basics-2/13-elements	word	kon sewi	divine spirit
+basics-2/13-elements	word	telo nasa	liquid that causes drunkenness, alcohol
+basics-2/13-elements	example	lete li awen e moku.	Coldness preserves the food.
+basics-2/13-elements	example	seli li moku e kiwen kasi.	The fire consumed the wood.
+basics-2/13-elements	example	telo li kama tan sewi.	Water is falling from the sky. (It's raining.)
+basics-2/13-elements	example	o kama sona e kon toki!	Learn the meaning of the speech!
+basics-2/14-negation	exercise	sina moku ala e pipi.	You do not eat bugs.
+basics-2/14-negation	exercise	jan li sona ala e mi.	People do not know me.
+basics-2/14-negation	exercise	jan ala li sona e mi.	No one knows me.
+basics-2/14-negation	exercise	jan Mili li wile ala e lipu.	Millie does not want the book.
+basics-2/14-negation	exercise	waso li ken ala sitelen e tomo.	Birds cannot draw houses.
+basics-2/14-negation	exercise	jan Ana li tawa ala ma Tosi.	Anna does not go to Germany.
+basics-2/14-negation	exercise	jan Iman li lon ala ma Mewika.	Iman is not in the US.
+basics-2/14-negation	exercise	sina ken ala lape.	You cannot sleep.
+basics-2/14-negation	exercise	sina ken lape ala.	You may be awake.
+basics-2/14-negation	exercise	ma Tuki li waso ala.	The country of Turkey is not a bird.
+basics-2/14-negation	exercise	ma Masu li lon ala ma Elopa.	Egypt is not in Europe.
+basics-2/14-negation	exercise	o sewi ala e jan.	Do not idolise people.
+basics-2/14-negation	exercise	ma o utala ala e ma!	Countries should not fight one another!
+basics-2/14-negation	word	ala	not
+basics-2/14-negation	word	jan ala	no person, not a person
+basics-2/14-negation	example	jan ala li wile utala.	No person wants to fight.
+basics-2/14-negation	word	suli ala	not big, not important
+basics-2/14-negation	example	ni li suli ala tawa mi.	This is not important to me.
+basics-2/14-negation	word	moku ala	not to eat
+basics-2/14-negation	example	pipi li moku ala e soweli.	Bugs do not eat animals.
+basics-2/14-negation	word	wile ala	to not want to ...
+basics-2/14-negation	example	sina wile ala moku e suwi.	You do not want to eat sweets.
+basics-2/14-negation	word	tawa ala	to not go to ..., not towards ...
+basics-2/14-negation	example	pipi li tawa ala kasi.	The bug does not go to the plant.
+basics-2/15-with-like	vocab	sama	similar
+basics-2/15-with-like	vocab	kepeken	using
+basics-2/15-with-like	vocab	leko	brick
+basics-2/15-with-like	vocab	ante	change
+basics-2/15-with-like	vocab	pali	work
+basics-2/15-with-like	exercise	mi ante e nimi mi.	I changed my name.
+basics-2/15-with-like	exercise	kama sona li pali suli.	Learning is a lot of effort.
+basics-2/15-with-like	exercise	ona li musi kepeken sitelen.	He has fun using drawings.
+basics-2/15-with-like	exercise	jan Ali li pona e supa kepeken ko.	Ali fixed the desk with glue.
+basics-2/15-with-like	exercise	mi kalama sama jan Nowa.	I sing like Noah.
+basics-2/15-with-like	exercise	mi kepeken lipu Wikipesija.	I use Wikipedia.
+basics-2/15-with-like	exercise	kiwen ni li sama soweli.	This rock is like a cat.
+basics-2/15-with-like	exercise	mi wile ala tawa.	I don't want to move.
+basics-2/15-with-like	exercise	waso suli li tawa sama soweli.	The large bird moves like an animal.
+basics-2/15-with-like	exercise	mi ante e toki.	I translate.
+basics-2/15-with-like	exercise	sina awen pali e lipu suli.	You are still working on a novel.
+basics-2/15-with-like	exercise	o pona tawa jan ante!	Be good to other people!
+basics-2/15-with-like	exercise	jan li kepeken sitelen Lasina lon ma Tuki.	People use the Latin alphabet in Turkey.
+basics-2/15-with-like	exercise	mi ken tawa ma Pasiju kepeken lipu tawa.	I can go to Brazil using a travel document.
+basics-2/15-with-like	exercise	o tawa wawa e poki.	Please forcefully move the box.
+basics-2/15-with-like	word	kepeken	using, by means of
+basics-2/15-with-like	word	sama	similar to, same as
+basics-2/15-with-like	word	ante	to change; different, other
+basics-2/15-with-like	word	pali	to work, to build
+basics-2/15-with-like	word	leko	brick, block
+basics-2/15-with-like	word	sama sina	same as you
+basics-2/15-with-like	word	kepeken toki	by means of language
+basics-2/15-with-like	word	kepeken ilo ante	with a different tool
+basics-2/15-with-like	example	mi toki sama sina.	I speak like you.
+basics-2/15-with-like	example	mi pali e leko kepeken ilo.	I make bricks using a tool.
+basics-2/15-with-like	example	ona li sama sina.	They are like you.
+basics-2/15-with-like	example	ona li kepeken ilo.	They use a tool.
+basics-2/15-with-like	word	tawa	to move; movement; moving
+basics-2/15-with-like	word	lon	true, real, existing
+basics-2/15-with-like	word	tan	cause, origin
+basics-2/15-with-like	word	kepeken	usage
+basics-2/15-with-like	word	sama	similar, alike
+basics-2/15-with-like	example	sona mi li sama.	My knowledge is similar.
+basics-2/15-with-like	example	toki sina li lon.	Your speech is real. (What you're saying is true.)
+basics-2/15-with-like	example	mi wile lukin e sitelen tawa.	I want to watch a moving picture. (a video, a film)
+basics-2/15-with-like	example	mi sona ala e tan.	I don't know the reason.
+basics-2/15-with-like	example	jan li tawa tomo.	Someone goes to the house. (preposition)
+basics-2/15-with-like	example	jan li tawa e tomo.	Someone moves the house. (verb)
+basics-2/15-with-like	example	mi lon ma.	I'm on land. (preposition)
+basics-2/15-with-like	example	mi lon e ma.	I summon land into reality. I establish a territory. (verb)
+basics-2/16-society	vocab	kulupu	group
+basics-2/16-society	vocab	nasin	way
+basics-2/16-society	vocab	esun	trade
+basics-2/16-society	vocab	mani	money
+basics-2/16-society	vocab	moli	dead
+basics-2/16-society	vocab	mute	many
+basics-2/16-society	exercise	kasi mi li moli tan pipi.	My plant died because of bugs.
+basics-2/16-society	exercise	kulupu waso li tawa sewi.	A flock of birds flew into the sky.
+basics-2/16-society	exercise	jan lili li wile lukin e sitelen mute.	The child wants to look at a lot of pictures.
+basics-2/16-society	exercise	jan mute li musi lon kulupu.	Many people have fun together.
+basics-2/16-society	exercise	nasin mute li tawa ma tomo Loma.	Many roads go to Rome.
+basics-2/16-society	also_accept	nasin mute li tawa ma Loma.	Many roads go to Rome.
+basics-2/16-society	exercise	ilo ni li wile e mani mute.	This phone costs a lot of money.
+basics-2/16-society	exercise	kulupu musi mi li wawa!	My sports team is awesome!
+basics-2/16-society	also_accept	kulupu mi musi li wawa!	My sports team is awesome!
+basics-2/16-society	exercise	jan lili li tawa mute.	The young child moves around a lot.
+basics-2/16-society	exercise	jan o moli ala e jan.	People should not kill people.
+basics-2/16-society	exercise	ma ante li kepeken mani ante.	Other countries use other currencies.
+basics-2/16-society	exercise	tomo esun mute li lon nasin ni.	There are many shops on this street.
+basics-2/16-society	also_accept	esun mute li lon nasin ni.	There are many shops on this street.
+basics-2/16-society	also_accept	esun mute li lon nasin tomo ni.	There are many shops on this street.
+basics-2/16-society	also_accept	esun mute li lon nasin ni tomo.	There are many shops on this street.
+basics-2/16-society	also_accept	tomo mute esun li lon nasin ni.	There are many shops on this street.
+basics-2/16-society	word	kulupu	community, team, group
+basics-2/16-society	word	nasin	way, method, tradition, path
+basics-2/16-society	word	esun	to swap, to trade; market, shop
+basics-2/16-society	word	mani	money, valuable thing
+basics-2/16-society	word	moli	dead; to kill
+basics-2/16-society	word	mute	many, very
+basics-2/16-society	example	nasin mute li lon.	There are many traditions.
+basics-2/16-society	example	jan li pali lon kulupu.	People work in teams.
+basics-2/16-society	example	len pona li wile e mani mute.	Good clothes require a lot of money. Good clothes are expensive.
+basics-2/16-society	example	jan mute li moli tan utala suli.	Many people died because of the war.
+basics-2/16-society	example	mi wile esun e soweli mi.	I would like to sell my cow.
+basics-2/16-society	example	mi wile ala esun e soweli sina.	I don't want to buy your cow.
+basics-2/16-society	word	mi mute	we, many of us
+basics-2/16-society	example	kulupu pali li jo e mi mute.	The labour union includes a lot of us.
+basics-2/16-society	word	sina mute	you lot, you guys, y'all
+basics-2/16-society	example	ona li ken sitelen e sina mute.	They can take a picture of you guys.
+basics-2/16-society	example	mi mute li kalama musi.	We perform music together.
+basics-2/16-society	example	sina mute li sona e ni.	Many of you know this.
+basics-2/17-questions	vocab	anu	or
+basics-2/17-questions	vocab	seme	what
+basics-2/17-questions	exercise	kasi nasa li ike ala ike e kon?	Does tobacco make the air foul?
+basics-2/17-questions	exercise	ni li leko ala leko?	Is this a brick?
+basics-2/17-questions	exercise	sina ken ala ken kalama sama waso?	Can you sing like a bird?
+basics-2/17-questions	exercise	sina kepeken ala kepeken ilo Kuko?	Do you use Google?
+basics-2/17-questions	exercise	mi lon ala lon ma Italija?	Am I in Italy?
+basics-2/17-questions	exercise	ni li wile e mani anu seme?	This requires money, right?
+basics-2/17-questions	exercise	sina toki Tosi anu seme?	You speak German, right?
+basics-2/17-questions	exercise	ma Nijon li lon seme?	Where is Japan?
+basics-2/17-questions	exercise	jan seme li tan ma Palata?	Who is from India?
+basics-2/17-questions	exercise	sina wile moku e seme?	What do you want to eat?
+basics-2/17-questions	also_accept	sina wile e moku seme?	What do you want to eat?
+basics-2/17-questions	exercise	moli li ike anu seme?	Death is bad, right?
+basics-2/17-questions	exercise	soweli seme li moku e kasi mi?	Which animal ate my plant?
+basics-2/17-questions	exercise	ilo kalama li wile ala wile e wawa?	Does the radio require electricity?
+basics-2/17-questions	exercise	sina tawa ala tawa ma Anku?	Are you going to Korea?
+basics-2/17-questions	exercise	ni li ilo ala ilo moku?	Is this a spoon?
+basics-2/17-questions	exercise	toki seme li pona tawa sina?	Which languages do you like?
+basics-2/17-questions	exercise	jan Ema li ken toki seme?	Which languages can Emma speak?
+basics-2/17-questions	word	moku ala moku	does ... eat?
+basics-2/17-questions	example	pipi li moku ala moku e len?	Does the moth eat the cloth?
+basics-2/17-questions	word	pona ala pona	is ... good?
+basics-2/17-questions	example	kalama musi li pona ala pona tawa sina?	Is the music good to you? (Do you like the music?)
+basics-2/17-questions	word	wile ala wile	does ... want to ...?
+basics-2/17-questions	example	sina wile ala wile lape lon supa?	Do you want to sleep in the bed?
+basics-2/17-questions	word	lon ala lon	is ... at ...?
+basics-2/17-questions	example	ona li lon ala lon ma Mewika?	Are they in the US?
+basics-2/17-questions	example	sitelen li musi ala musi?	Is the video fun?
+basics-2/17-questions	word	musi.	fun. (= It is.)
+basics-2/17-questions	word	musi ala.	not fun. (= It's not.)
+basics-2/17-questions	word	seme	what? which?
+basics-2/17-questions	word	anu	or
+basics-2/17-questions	word	anu seme	... right? isn't it? or what?
+basics-2/17-questions	example	sitelen li musi anu seme?	The video is fun, right?
+basics-2/17-questions	example	waso li lon seme?	Where is the bird? (lit. 'The bird is at what?')
+basics-2/17-questions	example	waso li lon tomo.	The bird is at home.
+basics-2/17-questions	example	soweli li utala e jan seme?	Who did the animal attack? (lit. 'The animal attacked which person?')
+basics-2/17-questions	example	soweli li utala e jan Ema.	The animal attacked Emma.
+basics-2/17-questions	example	kiwen li ken kama ko.	Rock can turn into sand.
+basics-2/17-questions	example	kiwen li ken kama seme?	What can rock turn into?
+basics-2/18-feelings	vocab	pilin	feel
+basics-2/18-feelings	vocab	jaki	dirty
+basics-2/18-feelings	vocab	monsuta	scary
+basics-2/18-feelings	vocab	pakala	harm
+basics-2/18-feelings	vocab	a	ah
+basics-2/18-feelings	exercise	mi pilin ike tan pali.	I feel bad because of work.
+basics-2/18-feelings	exercise	o weka e jaki!	Please remove the filth!
+basics-2/18-feelings	exercise	kama pona! ni li kulupu toki.	Welcome! This is a language group.
+basics-2/18-feelings	exercise	sona. mi o kalama sama sina.	I see. I should sing like you.
+basics-2/18-feelings	exercise	toki! sina jan Ema anu seme?	Hello! You are Emma, right?
+basics-2/18-feelings	exercise	seme li monsuta e soweli lili?	What has scared the little bunny?
+basics-2/18-feelings	exercise	soweli suli li pakala ala pakala e tomo?	Did the large animal damage the house?
+basics-2/18-feelings	exercise	sina pali e ni anu seme? wawa!	You made this? Epic!
+basics-2/18-feelings	exercise	mi pilin ike tan pakala mi.	I am upset because of my mistakes.
+basics-2/18-feelings	exercise	a. ni li suli ala.	Oh. This is not important.
+basics-2/18-feelings	exercise	soweli ni li pilin monsuta tan telo suli.	This animal feels scared because of the ocean.
+basics-2/18-feelings	word	pilin	to feel, to experience; heart
+basics-2/18-feelings	word	jaki	dirty, disgusting, rotten
+basics-2/18-feelings	word	monsuta	scary thing, fear
+basics-2/18-feelings	word	pakala	to break, to harm
+basics-2/18-feelings	word	pilin pona	to feel good
+basics-2/18-feelings	word	pilin wawa	to feel powerful
+basics-2/18-feelings	example	mi pilin nasa.	I feel strange.
+basics-2/18-feelings	example	sina pilin seme?	How are you feeling?
+basics-2/18-feelings	example	mi pilin monsuta tan soweli.	I am scared of animals.
+basics-2/18-feelings	example	sina pona e pilin mi.	You make me feel better.
+basics-2/18-feelings	example	kon li jaki tawa pilin mi.	The air feels foul to my senses.
+basics-2/18-feelings	word	toki!	Hello! Let's talk!
+basics-2/18-feelings	word	pona!	Good!
+basics-2/18-feelings	word	sona.	I see. Understood. Got it.
+basics-2/18-feelings	word	wawa!	Incredible! Amazing!
+basics-2/18-feelings	word	lon.	That's true.
+basics-2/18-feelings	word	kama pona!	Welcome!
+basics-2/18-feelings	word	pipi!	(Aaah!) A bug!
+basics-2/18-feelings	word	a	ah, huh, oh
+basics-2/18-feelings	word	suwi a!	How sweet!
+basics-2/18-feelings	word	a, ken.	Ah, perhaps.
+basics-2/18-feelings	word	a a a!	hahaha!
+basics-2/18-feelings	example	mi sona ala a e ni!	I do not know that!
+basics-3/20-time	vocab	la	as for
+basics-3/20-time	vocab	tenpo	time
+basics-3/20-time	vocab	sike	circle
+basics-3/20-time	vocab	mun	moon
+basics-3/20-time	vocab	suno	sun
+basics-3/20-time	vocab	sin	new
+basics-3/20-time	vocab	poka	side
+basics-3/20-time	exercise	kasi li moku e suno.	Plants photosynthesise.
+basics-3/20-time	exercise	mun li tawa lon sike.	The Moon moves along an ellipse.
+basics-3/20-time	also_accept	mun li tawa sike.	The Moon moves along an ellipse.
+basics-3/20-time	exercise	ona li lon poka sina.	They are by your side.
+basics-3/20-time	exercise	tenpo pini la mi lili.	I used to be a child.
+basics-3/20-time	exercise	musi la waso li toki sama jan.	Funnily enough, the bird speaks like a person.
+basics-3/20-time	exercise	kon li lete la, pipi li weka.	When it is cold, bugs disappear.
+basics-3/20-time	exercise	sina wile la, sina ken.	You may if you want.
+basics-3/20-time	exercise	ken la ona o lape.	Perhaps, she should sleep.
+basics-3/20-time	exercise	pona la utala li pini.	Thankfully, the war has ended.
+basics-3/20-time	exercise	seli la o pakala e kiwen.	In case of fire, break glass.
+basics-3/20-time	exercise	mi la len ni li pona.	In my opinion, these clothes are nice.
+basics-3/20-time	exercise	lon la nasin ante li ken.	Actually, other methods are possible.
+basics-3/20-time	exercise	awen la o weka tan tomo mi.	Nevertheless, get out of my house.
+basics-3/20-time	word	tenpo	time, moment, situation
+basics-3/20-time	word	sike	round, repeating, yearly; circle, ball
+basics-3/20-time	word	mun	moon, celestial body
+basics-3/20-time	word	suno	sun, daylight; bright
+basics-3/20-time	word	sin	new, fresh; again
+basics-3/20-time	word	poka	side, vicinity; nearby
+basics-3/20-time	word	lon tenpo kama	in the coming time, in the future
+basics-3/20-time	word	lon tenpo pini	in the finished time, in the past
+basics-3/20-time	word	lon tenpo ni	during this time
+basics-3/20-time	example	soweli lili mi o kama suli lon tenpo kama!	May my little cat grow big in the future!
+basics-3/20-time	example	ma Loma li ma suli lon tenpo weka.	Rome was a large empire long ago.
+basics-3/20-time	word	la	as for ..., speaking of ..., when ..., if ...
+basics-3/20-time	word	ken la	perhaps, ...
+basics-3/20-time	word	open la	to begin with, ...
+basics-3/20-time	word	lipu la	as for the book, ...
+basics-3/20-time	word	tenpo la	sometimes, ...
+basics-3/20-time	word	tenpo pini la	in the past, ...
+basics-3/20-time	word	tenpo suno kama la	the next day, ...; tomorrow, ...
+basics-3/20-time	example	sin la mi wile toki e ni:	Once again, I just want to say that...
+basics-3/20-time	example	mi pali e ni lon tenpo kama poka.	I will work on this soon.
+basics-3/20-time	word	suno li pini.	The sun sets.
+basics-3/20-time	word	mi lape.	I sleep.
+basics-3/20-time	example	suno li pini la, mi lape.	When the sun sets, I sleep.
+basics-3/21-nature	vocab	akesi	lizard
+basics-3/21-nature	vocab	kala	fish
+basics-3/21-nature	vocab	pan	bread
+basics-3/21-nature	vocab	kili	fruit
+basics-3/21-nature	vocab	soko	mushroom
+basics-3/21-nature	vocab	misikeke	medicine
+basics-3/21-nature	vocab	namako	spice
+basics-3/21-nature	exercise	soko li moku e kasi moli.	Fungi consume deceased plants.
+basics-3/21-nature	exercise	o seli e ko pan.	Bake the dough.
+basics-3/21-nature	exercise	mi weka e kili tan ma.	I dug up the potato.
+basics-3/21-nature	exercise	kasi li wile e telo, e suno, e ma.	Plants need water, sunlight, and land.
+basics-3/21-nature	exercise	jan li toki, li musi, li kalama, li lape.	People talk, have fun, sing, and sleep.
+basics-3/21-nature	exercise	kala li ken ala ken moku e pan?	Can fish eat bread?
+basics-3/21-nature	exercise	pan sina o jo ala jo e kili suwi?	Should your pizza include sweet fruit?
+basics-3/21-nature	exercise	o moku ala e kili jaki e soko nasa.	Do not eat rotten fruit and strange mushrooms.
+basics-3/21-nature	exercise	akesi li ken lon telo li ken lon ma.	Frogs can be in water and on land.
+basics-3/21-nature	also_accept	akesi li ken lon telo lon ma.	Frogs can be in water and on land.
+basics-3/21-nature	word	akesi	reptile or amphibian, like a frog, lizard, snake
+basics-3/21-nature	word	kala	fish or sea creature, like a salmon, whale, shark, octopus
+basics-3/21-nature	word	pan	starchy food, like wheat, rice, bread, pasta
+basics-3/21-nature	word	kili	fruit, vegetable
+basics-3/21-nature	word	soko	mushroom
+basics-3/21-nature	word	misikeke	medicine
+basics-3/21-nature	word	namako	spice, garnish, adornment
+basics-3/21-nature	example	soko li kili nasa.	Mushrooms are strange fruit.
+basics-3/21-nature	example	kala suli li alasa e kala lili.	A large fish hunts smaller fish.
+basics-3/21-nature	example	mi o moku e misikeke lon tenpo mute.	I have to frequently take medication.
+basics-3/21-nature	example	pan li jo e soweli.	The pizza contains meat.
+basics-3/21-nature	example	pan li jo e kili.	The pizza contains vegetables.
+basics-3/21-nature	example	pan li jo e namako.	The pizza contains condiments.
+basics-3/21-nature	example	pan li jo e soweli e kili e namako.	The pizza contains meat, vegetables, (and) condiments.
+basics-3/21-nature	example	jan li alasa e kala.	The person hunts fish. (= the person fishes).
+basics-3/21-nature	example	jan li seli e ona.	The person cooks them.
+basics-3/21-nature	example	jan li moku e ona.	The person eats them.
+basics-3/21-nature	example	jan li alasa e kala, li seli e ona, li moku e ona.	The person hunts fish, cooks them, eats them.
+basics-3/22-very-lovely-cats	exercise	ko lete mute	a lot of snow
+basics-3/22-very-lovely-cats	also_accept	ko mute lete	a lot of snow
+basics-3/22-very-lovely-cats	exercise	ko pi lete mute	very cold snow
+basics-3/22-very-lovely-cats	exercise	pakala mi mute	my many mistakes
+basics-3/22-very-lovely-cats	also_accept	pakala mute mi	my many mistakes
+basics-3/22-very-lovely-cats	exercise	pakala pi mi mute	our mistake
+basics-3/22-very-lovely-cats	exercise	lipu toki ante	the other language-book
+basics-3/22-very-lovely-cats	also_accept	lipu ante toki	the other language-book
+basics-3/22-very-lovely-cats	exercise	lipu pi toki ante	a book in another language
+basics-3/22-very-lovely-cats	exercise	tomo jan lili	someone's small room
+basics-3/22-very-lovely-cats	also_accept	tomo lili jan	someone's small room
+basics-3/22-very-lovely-cats	exercise	tomo pi jan lili	a room for someone small
+basics-3/22-very-lovely-cats	word	soweli suwi	a lovely cat
+basics-3/22-very-lovely-cats	word	soweli mute	many cats
+basics-3/22-very-lovely-cats	word	suwi mute	very lovely
+basics-3/22-very-lovely-cats	word	soweli suwi mute	many lovely cats
+basics-3/22-very-lovely-cats	word	pi	a particle that groups adjectives
+basics-3/22-very-lovely-cats	word	soweli pi suwi mute	a very lovely cat
+basics-3/22-very-lovely-cats	word	sitelen tomo	a photo of a house
+basics-3/22-very-lovely-cats	word	sitelen mute	photos
+basics-3/22-very-lovely-cats	word	tomo mute	houses
+basics-3/22-very-lovely-cats	word	sitelen tomo mute	photos of a house
+basics-3/22-very-lovely-cats	word	sitelen pi tomo mute	a photo of houses
+basics-3/22-very-lovely-cats	word	jan pona	a nice person
+basics-3/22-very-lovely-cats	word	jan lili	a small person
+basics-3/22-very-lovely-cats	word	pona lili	somewhat nice
+basics-3/22-very-lovely-cats	word	jan pona lili	a small nice person
+basics-3/22-very-lovely-cats	word	jan pi pona lili	a somewhat nice person
+basics-3/22-very-lovely-cats	word	sona utala	war knowledge
+basics-3/22-very-lovely-cats	word	sona sin	new knowledge
+basics-3/22-very-lovely-cats	word	utala sin	new war
+basics-3/22-very-lovely-cats	word	sona utala sin	new war-knowledge. the knowledge is recent.
+basics-3/22-very-lovely-cats	word	sona pi utala sin	new-war knowledge. the war is recent.
+basics-3/23-places	vocab	selo	outer shell
+basics-3/23-places	vocab	insa	inner part
+basics-3/23-places	vocab	sinpin	front
+basics-3/23-places	vocab	monsi	back
+basics-3/23-places	vocab	anpa	bottom
+basics-3/23-places	exercise	selo kasi li awen e insa kasi.	The tree bark protects the insides of a plant.
+basics-3/23-places	exercise	sinpin tomo li pakala.	The walls of a house are damaged.
+basics-3/23-places	exercise	sinpin pi tomo ni li wile e leko.	The wall of this house requires bricks.
+basics-3/23-places	exercise	waso pi jan Sunita li suwi.	Sunita's bird is cute.
+basics-3/23-places	exercise	ma Pesije li lon poka pi ma Kanse.	Belgium is next to France.
+basics-3/23-places	exercise	akesi sina li lon monsi pi akesi mi.	Your frog is behind mine.
+basics-3/23-places	exercise	kulupu pi toki pona li kama suli.	The Toki Pona community is growing.
+basics-3/23-places	exercise	jan pi mute seme li lon ma Masu?	How many people are there in Egypt?
+basics-3/23-places	exercise	sina sona ala sona e jan pi ma Netelan?	Do you know any Dutch people?
+basics-3/23-places	exercise	lipu ni li tan jan pi nimi ala.	This book is by an anonymous author.
+basics-3/23-places	exercise	jan Ali li wile tawa tomo pi sona ma.	Ali wants to visit the geographical institute.
+basics-3/23-places	example	soweli pi jan Ema	Emma's dog
+basics-3/23-places	example	soweli jan Ema	A human-like dog named Emma (???)
+basics-3/23-places	example	toki pi jan Mili	Millie's speech
+basics-3/23-places	example	toki jan Mili	A human language named Millie (???)
+basics-3/23-places	word	selo	skin, peel, shell, bark
+basics-3/23-places	word	insa	the internal part, centre, middle
+basics-3/23-places	word	monsi	back, rear
+basics-3/23-places	word	sinpin	face, front, wall
+basics-3/23-places	word	anpa	bottom; to defeat
+basics-3/23-places	example	selo kasi li kiwen.	The bark of a tree is hard and wooden.
+basics-3/23-places	example	selo pi kasi ni li pakala.	The bark of this tree is damaged.
+basics-3/23-places	example	soweli li lon insa tomo.	The cat is inside the house.
+basics-3/23-places	example	o tawa insa pi tomo mi!	Go inside my house!
+basics-3/23-places	example	sinpin pi jan Ali li pona.	Ali's face is nice.
+basics-3/23-places	example	mani li lon anpa pi telo suli.	The treasure is on the ocean floor.
+basics-3/24-body	vocab	sijelo	body
+basics-3/24-body	vocab	luka	hand
+basics-3/24-body	vocab	noka	foot
+basics-3/24-body	vocab	lawa	head
+basics-3/24-body	vocab	kute	ear
+basics-3/24-body	vocab	uta	mouth
+basics-3/24-body	vocab	nena	bump
+basics-3/24-body	vocab	palisa	rod
+basics-3/24-body	vocab	linja	rope
+basics-3/24-body	exercise	lawa mi li pakala.	I have a headache.
+basics-3/24-body	also_accept	mi pakala lawa.	I have a headache.
+basics-3/24-body	exercise	sina kute. mi lawa.	You obey. I command.
+basics-3/24-body	exercise	namako li seli tawa uta mi.	Spice feels hot to my mouth.
+basics-3/24-body	exercise	o luka e soweli suwi!	Please pet the lovely dog!
+basics-3/24-body	exercise	nena li lon ala lon ma Netelan?	Are there hills in the Netherlands?
+basics-3/24-body	exercise	misikeke li pona e sijelo ona.	Medicine heals her body.
+basics-3/24-body	exercise	linja lawa ona li pona tawa luka.	Her hair is nice to the touch.
+basics-3/24-body	also_accept	linja ona li pona tawa luka.	Her hair is nice to the touch.
+basics-3/24-body	exercise	mi kute e kalama lili.	I heard a faint sound.
+basics-3/24-body	exercise	waso li ken ala ken tawa kepeken luka?	Can birds fly using wings?
+basics-3/24-body	exercise	jan Ana li wile lawa e ma Tosi.	Anna wants to be the chancellor of Germany.
+basics-3/24-body	exercise	nena kiwen li sama nena pi sinpin mi.	The mountain is similar to the nose on my face.
+basics-3/24-body	exercise	jan pi mani mute li kute ala e jan pi mani lili.	Rich people do not listen to poor people.
+basics-3/24-body	word	lawa	head; to lead
+basics-3/24-body	word	kute	ear; to hear
+basics-3/24-body	word	nena	bump, like a nose, hill, breast
+basics-3/24-body	word	uta	mouth, lips; to kiss, to bite
+basics-3/24-body	word	sijelo	body
+basics-3/24-body	word	luka	hand, arm; to touch
+basics-3/24-body	word	noka	foot, leg
+basics-3/24-body	word	palisa	long hard thing, like a branch, rod, staff
+basics-3/24-body	word	linja	long flexible thing, like a string, rope
+basics-3/24-body	example	mi wile suli e linja lawa mi.	I want to grow out my hair.
+basics-3/24-body	example	jan lawa mi li kute e toki ike mi.	My boss heard me running my mouth.
+basics-3/24-body	example	ilo lukin li pana e sitelen ante.	The mirror gives off an inverse image.
+basics-3/24-body	example	sijelo mi li wile e lape.	My body requires rest.
+basics-3/24-body	example	palisa luka mi li suli. palisa noka mi li lili.	My fingers are larger than my toes.
+basics-3/25-numbers	vocab	nanpa	number
+basics-3/25-numbers	vocab	wan	one
+basics-3/25-numbers	vocab	tu	two
+basics-3/25-numbers	vocab	ale	every
+basics-3/25-numbers	vocab	kipisi	split
+basics-3/25-numbers	exercise	luka tu wan	eight
+basics-3/25-numbers	exercise	sina kipisi e pan.	You slice the bread.
+basics-3/25-numbers	exercise	mi tu li kama wan.	The two of us join together.
+basics-3/25-numbers	exercise	mi sona e toki tu wan.	I can speak three languages.
+basics-3/25-numbers	also_accept	mi sona toki tu wan.	I can speak three languages.
+basics-3/25-numbers	exercise	mani luka pi ma Elopa	5 Euro
+basics-3/25-numbers	exercise	tenpo mun nanpa tu tu li open.	April begins.
+basics-3/25-numbers	also_accept	mun nanpa tu tu li open.	April begins.
+basics-3/25-numbers	word	wan	one; united
+basics-3/25-numbers	word	tu	two; divided
+basics-3/25-numbers	word	luka	five, hand
+basics-3/25-numbers	word	mute	many
+basics-3/25-numbers	word	ale	all, every
+basics-3/25-numbers	word	kipisi	piece, part; to split
+basics-3/25-numbers	word	wan	one
+basics-3/25-numbers	word	tu	two
+basics-3/25-numbers	word	tu wan	three
+basics-3/25-numbers	word	tu tu	four
+basics-3/25-numbers	word	luka	five
+basics-3/25-numbers	word	luka wan	six
+basics-3/25-numbers	word	luka tu	seven
+basics-3/25-numbers	word	luka tu wan	eight
+basics-3/25-numbers	word	luka tu tu	nine
+basics-3/25-numbers	word	luka luka	ten
+basics-3/25-numbers	word	kala wan	one fish
+basics-3/25-numbers	word	soko tu tu	four mushrooms
+basics-3/25-numbers	word	mun luka	five months
+basics-3/25-numbers	word	nanpa	number; the ...-th
+basics-3/25-numbers	word	kala nanpa wan	the first fish
+basics-3/25-numbers	word	soko nanpa tu tu	the fourth mushroom
+basics-3/25-numbers	word	mun nanpa luka	the fifth month
+basics-3/26-love-identity	vocab	olin	love
+basics-3/26-love-identity	vocab	unpa	sex
+basics-3/26-love-identity	vocab	mama	parent
+basics-3/26-love-identity	vocab	mije	man
+basics-3/26-love-identity	vocab	meli	woman
+basics-3/26-love-identity	vocab	tonsi	non-binary
+basics-3/26-love-identity	vocab	en	(subject joiner)
+basics-3/26-love-identity	exercise	mama mije mi li olin e mama meli mi.	My dad loves my mom.
+basics-3/26-love-identity	also_accept	mama mi mije li olin e mama mi meli.	My dad loves my mom.
+basics-3/26-love-identity	also_accept	mama mi li olin e mama mi.	My dad loves my mom.
+basics-3/26-love-identity	exercise	meli mi li suwi.	My girlfriend is sweet.
+basics-3/26-love-identity	exercise	meli en mije en tonsi li pona tawa mi.	I like women, men, and non-binary folks.
+basics-3/26-love-identity	word	olin	to love
+basics-3/26-love-identity	word	unpa	to have sex
+basics-3/26-love-identity	word	mama	parent
+basics-3/26-love-identity	word	mije	man, masculine person, husband; male
+basics-3/26-love-identity	word	meli	woman, feminine person, wife; female
+basics-3/26-love-identity	word	tonsi	non-binary, gender-nonconforming; trans
+basics-3/26-love-identity	example	mi olin e mije mi.	I love my boyfriend.
+basics-3/26-love-identity	example	mama o!	Mom! (or) Dad!
+basics-3/26-love-identity	example	mi olin e meli.	I'm into girls.
+basics-3/26-love-identity	example	len mi li mije.	I dress masculine.
+basics-3/26-love-identity	example	jan olin mi li tonsi.	My partner is non-binary.
+basics-3/26-love-identity	example	mi meli e sijelo mi kepeken misikeke.	I make my body more feminine with medication.
+basics-3/26-love-identity	word	en	joins subjects
+basics-3/26-love-identity	example	mi en ona li toki.	Me and her are chatting.
+basics-3/26-love-identity	example	soweli en waso li utala.	The animal and the bird are fighting.
+basics-3/26-love-identity	example	meli en mije li unpa.	The woman and the man have sex.
+basics-3/27-colours	vocab	kule	colour
+basics-3/27-colours	vocab	walo	white
+basics-3/27-colours	vocab	pimeja	black
+basics-3/27-colours	vocab	laso	cyan
+basics-3/27-colours	vocab	loje	red
+basics-3/27-colours	vocab	jelo	yellow
+basics-3/27-colours	vocab	kin	also
+basics-3/27-colours	exercise	tenpo pimeja la mi musi.	At night, I party.
+basics-3/27-colours	also_accept	pimeja la mi musi.	At night, I party.
+basics-3/27-colours	exercise	ko jelo li lon pipi.	There is yellow dust on the bee.
+basics-3/27-colours	exercise	mi kin li musi kepeken leko kule.	I, too, play with colourful bricks.
+basics-3/27-colours	exercise	mi ken ala lukin tan ko walo.	All this snow is blinding me.
+basics-3/27-colours	exercise	laso en walo en loje li lon lipu.	Blue, white, and red are on the flag.
+basics-3/27-colours	word	kule	colour, kind; colourful
+basics-3/27-colours	word	walo	white, pale
+basics-3/27-colours	word	pimeja	black, dark
+basics-3/27-colours	word	loje	red, magenta
+basics-3/27-colours	word	jelo	yellow
+basics-3/27-colours	word	laso	green, teal, blue
+basics-3/27-colours	word	kin	also, too
+basics-3/27-colours	example	sewi li laso.	The sky is blue.
+basics-3/27-colours	example	kasi kin li laso.	The grass, too, is green.
+basics-3/27-colours	example	tomo laso	a green house
+basics-3/27-colours	example	tomo kasi	a greenhouse
+basics-3/27-colours	example	tomo walo	a white house
+basics-3/27-colours	example	tomo ni la jan li lawa e ma Mewika.	the White House
+basics-3/28-moo	vocab	taso	but
+basics-3/28-moo	vocab	n	hmm
+basics-3/28-moo	vocab	mu	moo
+basics-3/28-moo	vocab	pu	'Toki Pona: The Language of Good (2014)' by Sonja Lang
+basics-3/28-moo	vocab	ku	'Toki Pona Dictionary (2021)' by Sonja Lang
+basics-3/28-moo	vocab	kijetesantakalu	raccoon
+basics-3/28-moo	exercise	mi lukin e waso laso taso.	I see a lone turquoise duck.
+basics-3/28-moo	also_accept	mi lukin e waso taso laso.	I see a lone turquoise duck.
+basics-3/28-moo	exercise	sewi li pana e mu monsuta.	The sky gave off a terrifying boom.
+basics-3/28-moo	exercise	mi wile lape. taso mi ken ala.	I want to sleep. But I cannot.
+basics-3/28-moo	exercise	kijetesantakalu li olin e sina.	The raccoon loves you.
+basics-3/28-moo	word	taso	but, only
+basics-3/28-moo	example	mi taso li sona e ni.	Only I am aware of this.
+basics-3/28-moo	example	mi awen wan taso.	I remain alone.
+basics-3/28-moo	example	taso mi awen pilin pona.	But I keep my spirits up.
+basics-3/28-moo	word	n	hmm, umm
+basics-3/28-moo	example	n... mi sona ala.	ummm... I don't know.
+basics-3/28-moo	word	mu	moo, meow, woof, neigh...
+basics-3/28-moo	example	soweli mute! mu mu mu mu mu mu.	Six cows! Moo moo moo moo moo moo.
+basics-3/28-moo	example	mi kute e kalama suli.	I heard a loud noise.
+basics-3/28-moo	example	mi kute e mu suli.	I heard a loud bang.
+basics-3/28-moo	example	ike la ilo li awen mu e mi.	Unfortunately, the app keeps pinging me.
+basics-3/28-moo	word	kijetesantakalu	raccoon; raccoon-like animal, like a cacomistle, red panda, kinkajou
+basics-3/28-moo	word	pu	(to interact with) Toki Pona: The Language of Good (2014), by Sonja Lang
+basics-3/28-moo	word	ku	(to interact with) Toki Pona Dictionary (2021), by Sonja Lang
+basics-3/28-moo	example	kijetesantakalu tonsi li lanpan ala lanpan e soko?	Does the non-binary raccoon steal mushrooms?
+basics-3/29-song	text	ona ale li alasa lukin e mi	they all look for me
+basics-3/29-song	text	mi wile kalama suli	i want to scream
+basics-3/29-song	text	ale li ante	life keeps changing
+basics-3/29-song	text	sina o awen tawa pona	stay for when it gets better
+basics-3/29-song	text	mi tu li lape tawa tenpo pona	we sleep for better times
+basics-3/29-song	text	tenpo pimeja lete la mi tu li awen seli	the night is cold but we keep each other warm
+basics-3/29-song	text	sitelen mun li lawa tawa open sin	constellations lead to a new beginning
+basics-3/29-song	text	ma ale li sama lukin tawa mi (tawa mi)	everywhere i go looks the same
+basics-3/29-song	text	ona ale li nasa (ona ale li nasa)	it's all insane (it's all insane)
+basics-3/29-song	text	ko nasa sin li weka e pilin ale	new drugs remove every feeling
+basics-3/29-song	text	jan li wile ala sona e pakala suli pi ona mute.	people dont want to know their brokenness
+basics-3/29-song	text	ike li lawa tan seme? jan pona li moli lon insa	why do the evil rule? the good are dead inside
+basics-3/29-song	text	ona li wile ala sona tan pilin pakala ni	they don't want to know from their broken hearts
+basics-3/29-song	text	ken la ken ante li ken ala mute	opportunities of change may not be common
+basics-3/29-song	text	taso sina wile e nimi lon la mi tu o tawa weka lon tenpo ni	but if the truth is what you desire, lets go, right now
+more/06-01-li-and-is	example	waso li pona.	The bird is good.
+more/06-01-li-and-is	word	jan li moku.	The person eats.
+more/06-01-li-and-is	word	jan li pona.	The person is good.
+more/06-01-li-and-is	word	jan li soweli.	The person is an animal.
+more/06-01-li-and-is	word	jan o moku!	Person, eat!
+more/06-01-li-and-is	word	jan o pona!	Person, be good!
+more/06-01-li-and-is	word	jan o soweli!	Person, be an animal!
+more/06-01-li-and-is	word	jan li moku.	The person eats. Statement → 󱤧 li. Verb → no 'to be'.
+more/06-01-li-and-is	word	jan li pona.	The person is good. Statement → 󱤧 li. Adjective → needs 'to be'.
+more/06-01-li-and-is	word	jan o moku!	Person, eat! Command → 󱥄 o. Verb → no 'to be'.
+more/06-01-li-and-is	word	jan o pona!	Person, be good! Command → 󱥄 o. Adjective → needs 'to be'.
+more/07-02-simpler-cartouches	example	lipu Wikipesija	Wikipedia
+more/07-02-simpler-cartouches	example	ma Antasika	Antarctica
+more/07-02-simpler-cartouches	example	ma Kolonpija	Colombia
+more/07-02-simpler-cartouches	word	A	
+more/07-02-simpler-cartouches	word	An	
+more/07-02-simpler-cartouches	word	Anpa	
+more/07-02-simpler-cartouches	word	S	
+more/07-02-simpler-cartouches	word	Si	
+more/07-02-simpler-cartouches	word	Sin	
+more/07-02-simpler-cartouches	word	Sinpi	
+more/07-02-simpler-cartouches	word	Sinpin	
+more/07-02-simpler-cartouches	example	ma Sonko	
+more/07-02-simpler-cartouches	example	ma Antasika	
+more/07-02-simpler-cartouches	example	ma Kolonpija	
+more/07-02-simpler-cartouches	example	jan Towasi	Dorothy
+more/07-02-simpler-cartouches	example	jan T.	Dorothy
+more/08-02-named-verbs	example	jan li toki Inli.	The person speaks English.
+more/08-02-named-verbs	example	jan li musi Manka.	The person plays Minecraft.
+more/08-02-named-verbs	example	jan li toki Inli.	The person speaks English-ly.
+more/08-02-named-verbs	example	jan li musi Manka.	The person plays Minecraft-ly.
+more/08-02-named-verbs	example	jan li toki suwi.	The person speaks adorably.
+more/08-02-named-verbs	example	jan li musi pona.	The person plays well.
+more/08-02-named-verbs	example	jan li toki lon toki Inli.	The person speaks in English.
+more/08-02-named-verbs	example	jan li toki kepeken toki Inli.	The person speaks by means of English.
+more/08-02-named-verbs	example	jan li musi lon musi Manka.	The person has fun in Minecraft.
+more/08-02-named-verbs	example	jan li musi kepeken musi Manka.	The person has fun by means of Minecraft.
+more/08-02-named-verbs	example	jan li toki e toki Inli.	The person speaks about English. (makes sense, but in a different situation)
+more/08-02-named-verbs	example	jan li musi e musi Manka.	The person entertains Minecraft. (???)
+more/09-01-more-preverbs	word	wile	to want to ...
+more/09-01-more-preverbs	word	ken	to be able to ...
+more/09-01-more-preverbs	word	kama	to begin to ..., to become ...
+more/09-01-more-preverbs	word	awen	to continue to ..., to still ...
+more/09-01-more-preverbs	word	alasa	to try to ...
+more/09-01-more-preverbs	word	sona	to know how to ...
+more/09-01-more-preverbs	word	open	to begin to ...
+more/09-01-more-preverbs	word	pini	to finish ...ing
+more/09-01-more-preverbs	word	lukin	to try to ...
+more/09-01-more-preverbs	example	mi sona toki pona.	I know how to speak well.
+more/09-01-more-preverbs	example	mi sona sitelen e waso.	I know how to draw a bird.
+more/09-01-more-preverbs	example	mi sona e toki pona.	I know good speech.
+more/09-01-more-preverbs	example	mi ken sitelen e waso.	I can draw a bird.
+more/09-01-more-preverbs	example	mi open pali.	I begin to work.
+more/09-01-more-preverbs	example	mi pini pali.	I finish working.
+more/09-01-more-preverbs	example	mi kama sona.	I begin to know.
+more/09-01-more-preverbs	example	mi kama sona.	I become knowledgeable.
+more/09-01-more-preverbs	example	mi kama pali ala.	I begin to not work. = I finish working.
+more/09-01-more-preverbs	example	mi pini e pali mi.	I finish my work.
+more/09-01-more-preverbs	example	mi alasa sona e nimi.	I try to learn the words.
+more/09-01-more-preverbs	example	mi lukin sona e nimi.	I try to learn the words.
+more/17-01-doing	word	ni	this, that
+more/17-01-doing	word	ijo	something, thing, stuff
+more/17-01-doing	word	seme	what? which?
+more/17-01-doing	word	ni	to do this, to do that
+more/17-01-doing	word	ijo	to do something
+more/17-01-doing	word	seme	to do what?
+more/17-01-doing	example	sina seme?	What are you doing?
+more/17-01-doing	example	mi esun e len.	I'm buying clothes.
+more/17-01-doing	example	sina seme e len?	What are you doing to the clothes?
+more/17-01-doing	example	mi esun e ona.	I'm buying them.
+more/17-01-doing	example	o pana e moku tawa soweli mi!	Please feed our cat!
+more/17-01-doing	example	mi ni.	I'm doing this. (= Got it! On it!)
+more/17-01-doing	example	ona li seme?	What is she doing?
+more/17-01-doing	example	ona li ijo e lipu mi!	She is doing something to my book!
+more/25-01-large-numbers	example	mute mute mute luka luka luka tu wan	78 (= 20 + 20 + 20 + 5 + 5 + 5 + 2 + 1)
+more/25-01-large-numbers	example	ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale	1500 (= 100 + 100 + 100 + ...)
+more/25-01-large-numbers	example	luka luka luka ale	1500 (= (5 + 5 + 5) * 100)
+more/25-01-large-numbers	example	mute ale mute luka	2025 (= 20 * 100 + 20 + 5)
+more/25-01-large-numbers	example	tenpo sike #LLLTTAMLLLTT la, tenpo mun #LTT la, tenpo suno #W la, ma Tosi li kama utala e ma Posuka.	On September 1st, 1939, Germany invaded Poland.
+more/28-02-uncommon-words	word	lanpan	to steal, to take (59%)
+more/28-02-uncommon-words	word	meso	middle, neither of the two extremes (52%)
+more/28-02-uncommon-words	example	telo en nena la tomo li lon insa.	As for the river and the hill, the house is in between them.
+more/28-02-uncommon-words	example	suli sijelo la mi nasa ala.	As for my height (or weight), I'm fairly average.
+more/28-02-uncommon-words	example	mi pilin pona lili.	I feel somewhat fine. I feel about average.
+more/28-02-uncommon-words	word	oko	eye (52%)
+more/28-02-uncommon-words	word	epiku	epic, awesome, amazing (50%)
+more/28-02-uncommon-words	word	su	(to interact with) 'The Wonderful Wizard of Oz (Toki Pona edition)' (50%)
+more/28-02-uncommon-words	word	majuna	old (46%)
+more/28-02-uncommon-words	example	mama mama mi li awen lon tenpo suli.	My grandparent has lived for a long time.
+more/28-02-uncommon-words	example	len ni li sin ala.	These clothes are worn out.
+more/28-02-uncommon-words	example	toki Emeki li toki pi tenpo weka.	Sumerian is an ancient language.
+more/28-02-uncommon-words	word	jasima	mirror, to mirror (43%)
+more/28-02-uncommon-words	example	mi lukin e mi lon sinpin.	I look at myself in the mirror.
+more/28-02-uncommon-words	example	ilo lukin li pana e sitelen ante.	The mirror gives off an inverse image.
+more/28-02-uncommon-words	example	sinpin pi tomo mi li lukin e sinpin pi tomo sina.	My building faces yours. My building is opposite yours.
+more/28-02-uncommon-words	word	linluwi	the Internet, network (38%)
+more/28-02-uncommon-words	word	nimisin	any non-pu word; any new word; any joke word (38%)
+more/28-02-uncommon-words	word	ali	all, every, 100 (32%)
+more/28-02-uncommon-words	word	toki pona taso	only Toki Pona
+more/28-02-uncommon-words	word	kokosila	to speak a different language, despite 󱥬󱥔󱥨 toki pona taso (26%)
+more/28-02-uncommon-words	word	o toki pona!	Speak Toki Pona! Speak clearly! Ne krokodilu!
+more/28-02-uncommon-words	word	usawi	magic (23%)
+more/28-02-uncommon-words	example	mi o suli e ken utala mi.	I should learn another attack spell.
+more/28-02-uncommon-words	example	o toki ala e wawa pi tenpo weka, jan nasa o. tenpo open ona la mi lon.	Do not cite the Deep Magic to me, Witch! I was there when it was written.
+more/28-02-uncommon-words	word	kiki	pointy, sharp (21%)
+more/28-02-uncommon-words	word	puwa	fluffy, soft (10%)
+more/28-02-uncommon-words	example	palisa selo soweli li pakala lili e luka mi.	The animal is spiky.
+more/28-02-uncommon-words	example	linja soweli li sama ko tawa luka mi.	The animal's fur is fluffy.
+more/28-02-uncommon-words	word	apeja	shame, embarrassment, dishonor (18%)
+more/28-02-uncommon-words	word	powe	fake, false (18%)
+more/28-02-uncommon-words	example	ni li lon ala!	This is not true!
+more/28-02-uncommon-words	example	ma ni li lon lawa mi taso.	This place only exists in my mind.
+more/28-02-uncommon-words	word	omekapo	eat a good fish! (15%)
+more/28-02-uncommon-words	example	mi tawa.	I'm going.
+more/28-02-uncommon-words	example	o tawa pona!	Go well!
+more/28-02-uncommon-words	word	isipin	to think (13%)
+more/28-02-uncommon-words	example	mi toki insa e pilin mi.	I'm pondering my feelings. (= talking internally)
+more/28-02-uncommon-words	example	mi pilin e ni: ...	I think that... (= believe, feel)
+more/28-02-uncommon-words	example	mi sitelen insa e ma.	I imagine a landscape. (= draw internally)
+more/28-02-uncommon-words	word	te	opens a quote (13%)
+more/28-02-uncommon-words	word	to	closes a quote (13%)
+more/28-02-uncommon-words	example	mi toki e ijo pona.	I speak of matters related to goodness.
+more/28-02-uncommon-words	example	mi toki e nimi Pona.	I say the word 'pona'.
+more/28-02-uncommon-words	word	yupekosi	to behave like George Lucas and revise your old creative works and actually make them worse (13%)
+more/28-02-uncommon-words	word	san	three (11%)
+more/28-02-uncommon-words	word	po	four (7%)
+more/28-02-uncommon-words	word	kamalawala	anarchy (9%)
+more/28-02-uncommon-words	word	wasoweli	both-bird-and-mammal-like creature (7%)
+more/28-02-uncommon-words	word	kapesi	brown, grey (9%)
+more/28-02-uncommon-words	word	unu	purple (8%)

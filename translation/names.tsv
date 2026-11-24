@@ -1,0 +1,38 @@
+# The English wasona gives Toki Pona names: one per line, tab-separated:
+# name, english, language, source. "language" is the form after toki
+# ("toki Tosi" = German); an empty field means the name stays as it is.
+Ema	Emma		wasona basics-1/07-names
+Nowa	Noah		wasona basics-1/07-names
+Mili	Millie		wasona basics-1/08-prepositions
+Maja	Maya		wasona basics-1/07-names
+Ana	Anna		wasona basics-2/14-negation
+Tosi	Germany	German	wasona basics-1/07-names
+Kanse	France	French	wasona basics-1/07-names
+Inli	England	English	wasona basics-1/08-prepositions
+Mewika	the United States		wasona basics-1/08-prepositions
+Nijon	Japan	Japanese	wasona basics-1/07-names
+Kanata	Canada		wasona basics-1/08-prepositions
+Towano	Toronto		wasona basics-1/07-names
+Loma	Rome	Latin	wasona basics-1/07-names
+Tuki	Turkey	Turkish	wasona basics-2/14-negation
+Sonko	China	Chinese	wasona basics-1/09-activities
+Netelan	the Netherlands	Dutch	wasona basics-3/23-places
+Masu	Egypt		wasona basics-2/14-negation
+Kolonpija	Colombia		wasona more/07-02-simpler-cartouches
+Elopa	Europe		wasona basics-2/14-negation
+Antasika	Antarctica		wasona more/07-02-simpler-cartouches
+Sumi	Finland	Finnish	wasona basics-2/13-elements
+Sinkapo	Singapore		wasona basics-2/12-requests
+Sanpansiko	San Francisco		wasona basics-1/08-prepositions
+Posuka	Poland	Polish	wasona more/25-01-large-numbers
+Pesije	Belgium		wasona basics-3/23-places
+Pasiju	Brazil		wasona basics-2/15-with-like
+Palata	India		wasona basics-2/17-questions
+Lusi	Russia	Russian	wasona basics-1/08-prepositions
+Italija	Italy	Italian	wasona basics-2/17-questions
+Emeki	Sumer	Sumerian	wasona more/28-02-uncommon-words
+Alapi	Arabia	Arabic	wasona basics-1/07-names
+Lasina	Latin	Latin	wasona basics-1/07-names
+Kililisa	Cyrillic	Cyrillic	wasona basics-1/07-names
+Wikipesija	Wikipedia		wasona basics-2/11-home
+Manka	Minecraft		wasona more/08-02-named-verbs
